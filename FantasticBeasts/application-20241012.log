@@ -1,0 +1,95 @@
+2024-10-12 14:06:30.596 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:06:30.599 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:06:30.599 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:06:30.599 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:06:30.599 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:06:30.601 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:06:30.601 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:06:30.601 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:08:47.054 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:08:47.058 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:08:47.058 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:08:47.058 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:08:47.058 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:08:47.059 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:08:47.059 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:08:47.059 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:11:36.848 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:11:36.850 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:11:36.850 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:11:36.851 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:11:36.851 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:11:36.852 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:11:36.853 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:11:36.853 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:12:24.795 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:12:24.799 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:12:24.799 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:12:24.799 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:12:24.799 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:12:24.800 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:12:24.800 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:12:24.800 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:22:56.080 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:22:56.082 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:22:56.083 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:22:56.083 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:22:56.083 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:22:56.084 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:22:56.084 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:22:56.085 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:26:17.697 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:26:17.701 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:26:17.701 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:26:17.701 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:26:17.701 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:26:17.702 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:26:17.703 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:26:17.703 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:26:17.733 [main] ERROR Ficheros.ManejoFicheros - Error al convertir el tipo: No enum constant models.Tipo.ESPIRITU
+2024-10-12 14:26:17.733 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Niffler, tipo=BESTIA, inmortal=false, magia=40, peligrosidad=30], Criatura [nombre=Bowtruckle, tipo=BESTIA, inmortal=false, magia=20, peligrosidad=10], Criatura [nombre=Thestral, tipo=BESTIA, inmortal=false, magia=50, peligrosidad=50], Criatura [nombre=Fénix, tipo=BESTIA, inmortal=true, magia=90, peligrosidad=40], Criatura [nombre=Erumpent, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=70], Criatura [nombre=Demiguise, tipo=BESTIA, inmortal=false, magia=60, peligrosidad=20], Criatura [nombre=Occamy, tipo=BESTIA, inmortal=false, magia=80, peligrosidad=60], Criatura [nombre=Graphorn, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=70], Criatura [nombre=Zouwu, tipo=BESTIA, inmortal=false, magia=70, peligrosidad=80], Criatura [nombre=Kelpie, tipo=BESTIA, inmortal=false, magia=50, peligrosidad=60], Criatura [nombre=Swooping Evil, tipo=BESTIA, inmortal=false, magia=40, peligrosidad=60], Criatura [nombre=Chupacabra, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=50], Criatura [nombre=Mooncalf, tipo=BESTIA, inmortal=false, magia=20, peligrosidad=10], Criatura [nombre=Nundu, tipo=BESTIA, inmortal=false, magia=70, peligrosidad=90], Criatura [nombre=Murtlap, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=40], Criatura [nombre=Basilisco, tipo=BESTIA, inmortal=false, magia=60, peligrosidad=100]]
+2024-10-12 14:32:10.649 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:32:10.653 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:32:10.654 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:32:10.654 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:32:10.655 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:32:10.656 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:32:10.657 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:32:10.657 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:32:10.669 [main] ERROR Ficheros.ManejoFicheros - Error al convertir el tipo: No enum constant models.Tipo.ESPIRITU
+2024-10-12 14:32:10.669 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Niffler, tipo=BESTIA, inmortal=false, magia=40, peligrosidad=30], Criatura [nombre=Bowtruckle, tipo=BESTIA, inmortal=false, magia=20, peligrosidad=10], Criatura [nombre=Thestral, tipo=BESTIA, inmortal=false, magia=50, peligrosidad=50], Criatura [nombre=Fénix, tipo=BESTIA, inmortal=true, magia=90, peligrosidad=40], Criatura [nombre=Erumpent, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=70], Criatura [nombre=Demiguise, tipo=BESTIA, inmortal=false, magia=60, peligrosidad=20], Criatura [nombre=Occamy, tipo=BESTIA, inmortal=false, magia=80, peligrosidad=60], Criatura [nombre=Graphorn, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=70], Criatura [nombre=Zouwu, tipo=BESTIA, inmortal=false, magia=70, peligrosidad=80], Criatura [nombre=Kelpie, tipo=BESTIA, inmortal=false, magia=50, peligrosidad=60], Criatura [nombre=Swooping Evil, tipo=BESTIA, inmortal=false, magia=40, peligrosidad=60], Criatura [nombre=Chupacabra, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=50], Criatura [nombre=Mooncalf, tipo=BESTIA, inmortal=false, magia=20, peligrosidad=10], Criatura [nombre=Nundu, tipo=BESTIA, inmortal=false, magia=70, peligrosidad=90], Criatura [nombre=Murtlap, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=40], Criatura [nombre=Basilisco, tipo=BESTIA, inmortal=false, magia=60, peligrosidad=100]]
+2024-10-12 14:32:36.132 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:32:36.135 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:32:36.135 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:32:36.136 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:32:36.136 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:32:36.137 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:32:36.137 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:32:36.137 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:32:36.150 [main] ERROR Ficheros.ManejoFicheros - Error al convertir el tipo: No enum constant models.Tipo.ESPIRITU
+2024-10-12 14:33:22.399 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:33:22.402 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:33:22.402 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:33:22.402 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:33:22.402 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:33:22.403 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:33:22.403 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:33:22.403 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:33:22.413 [main] ERROR Ficheros.ManejoFicheros - Error al convertir el tipo: No enum constant models.Tipo.ESPIRITU
+2024-10-12 14:33:22.413 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Niffler, tipo=BESTIA, inmortal=false, magia=40, peligrosidad=30], Criatura [nombre=Bowtruckle, tipo=BESTIA, inmortal=false, magia=20, peligrosidad=10], Criatura [nombre=Thestral, tipo=BESTIA, inmortal=false, magia=50, peligrosidad=50], Criatura [nombre=Fénix, tipo=BESTIA, inmortal=true, magia=90, peligrosidad=40], Criatura [nombre=Erumpent, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=70], Criatura [nombre=Demiguise, tipo=BESTIA, inmortal=false, magia=60, peligrosidad=20], Criatura [nombre=Occamy, tipo=BESTIA, inmortal=false, magia=80, peligrosidad=60], Criatura [nombre=Graphorn, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=70], Criatura [nombre=Zouwu, tipo=BESTIA, inmortal=false, magia=70, peligrosidad=80], Criatura [nombre=Kelpie, tipo=BESTIA, inmortal=false, magia=50, peligrosidad=60], Criatura [nombre=Swooping Evil, tipo=BESTIA, inmortal=false, magia=40, peligrosidad=60], Criatura [nombre=Chupacabra, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=50], Criatura [nombre=Mooncalf, tipo=BESTIA, inmortal=false, magia=20, peligrosidad=10], Criatura [nombre=Nundu, tipo=BESTIA, inmortal=false, magia=70, peligrosidad=90], Criatura [nombre=Murtlap, tipo=BESTIA, inmortal=false, magia=30, peligrosidad=40], Criatura [nombre=Basilisco, tipo=BESTIA, inmortal=false, magia=60, peligrosidad=100]]
+2024-10-12 14:37:32.048 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:37:32.051 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:37:32.051 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:37:32.051 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:37:32.052 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:37:32.053 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:37:32.054 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:37:32.054 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-12 14:40:24.832 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:40:24.837 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:40:24.837 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}]
+2024-10-12 14:40:24.837 [main] DEBUG controller.GestionaDiarioCriaturas - Diario [criaturas={}]
+2024-10-12 14:40:24.838 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-12 14:40:24.839 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-12 14:40:24.839 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-12 14:40:24.840 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
