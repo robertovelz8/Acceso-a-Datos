@@ -43,7 +43,7 @@ public class GestionaDiarioCriaturas {
 
 		logger.debug("-------------FICHEROS-----------");
 		
-		 String ruta = "C:\\Users\\rober\\Downloads\\FantasticBeasts\\src\\main\\resources\\";
+		 String ruta = "C:\\Users\\EQUIPO\\Desktop\\2 DAM\\Acceso a Datos\\FantasticBeasts\\src\\main\\resources\\";
 		 ManejaFicheroCriaturas m1 = new ManejaFicheroCriaturas(); 
 		 String rutaDirectorio = ruta+"criaturasfantasticas.csv";
 		 String rutaCriaturaTipo = ruta+"criaturaPorTipo.txt";

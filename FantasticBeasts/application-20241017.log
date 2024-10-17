@@ -1,0 +1,47 @@
+2024-10-17 10:08:43.988 [main] DEBUG controller.GestionaDiarioCriaturas - {2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}
+2024-10-17 10:08:43.990 [main] DEBUG controller.GestionaDiarioCriaturas - {}
+2024-10-17 10:08:43.990 [main] DEBUG controller.GestionaDiarioCriaturas - {2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}
+2024-10-17 10:08:43.991 [main] DEBUG controller.GestionaDiarioCriaturas - {}
+2024-10-17 10:08:43.991 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-17 10:08:43.991 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-17 10:08:43.991 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-17 10:08:43.991 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-17 10:08:43.992 [main] ERROR utilidadesFicheros.ManejaFicheroCriaturas - Archivo no encontrado: C:\Users\rober\Downloads\FantasticBeasts\src\main\resources\criaturasfantasticas.csv (El sistema no puede encontrar la ruta especificada)
+2024-10-17 10:08:43.992 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - nombre,inmortal,peligrosidad,magia,tipo
+2024-10-17 10:08:43.993 [main] ERROR utilidadesFicheros.ManejaFicheroCriaturas - Error al escribir el archivo: C:\Users\rober\Downloads\FantasticBeasts\src\main\resources\criaturaPorTipo.txt (El sistema no puede encontrar la ruta especificada)
+2024-10-17 10:19:35.069 [main] DEBUG controller.GestionaDiarioCriaturas - {2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}
+2024-10-17 10:19:35.070 [main] DEBUG controller.GestionaDiarioCriaturas - {}
+2024-10-17 10:19:35.070 [main] DEBUG controller.GestionaDiarioCriaturas - {2013-11-23=Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12]}
+2024-10-17 10:19:35.070 [main] DEBUG controller.GestionaDiarioCriaturas - {}
+2024-10-17 10:19:35.071 [main] DEBUG controller.GestionaDiarioCriaturas - ----------------------------
+2024-10-17 10:19:35.071 [main] DEBUG controller.GestionaDiarioCriaturas - [Criatura [nombre=Unicornio, tipo=BESTIA, inmortal=false, magia=23, peligrosidad=12], Criatura [nombre=Centauro, tipo=BESTIA, inmortal=true, magia=63, peligrosidad=100]]
+2024-10-17 10:19:35.071 [main] DEBUG controller.GestionaDiarioCriaturas - Criatura [nombre=Medusa, tipo=SER, inmortal=true, magia=98, peligrosidad=99]
+2024-10-17 10:19:35.071 [main] DEBUG controller.GestionaDiarioCriaturas - -------------FICHEROS-----------
+2024-10-17 10:19:35.077 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - nombre,inmortal,peligrosidad,magia,tipo
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Niffler,false,30,40,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Bowtruckle,false,10,20,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Thestral,false,50,50,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Fénix,true,40,90,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Erumpent,false,70,30,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Demiguise,false,20,60,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Occamy,false,60,80,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Graphorn,false,70,30,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Zouwu,false,80,70,BESTIA
+2024-10-17 10:19:35.078 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Kelpie,false,60,50,BESTIA
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Swooping Evil,false,60,40,BESTIA
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Chupacabra,false,50,30,BESTIA
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Mooncalf,false,10,20,BESTIA
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Nundu,false,90,70,BESTIA
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Murtlap,false,40,30,BESTIA
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Basilisco,false,100,60,BESTIA
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Dementor,false,90,80,ESPÍRITU
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Poltergeist,true,60,80,ESPÍRITU
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - House Elf,false,30,70,SER
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Boggart,false,40,50,ESPÍRITU
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Fantasma,true,20,30,ESPÍRITU
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Goblin,false,30,40,SER
+2024-10-17 10:19:35.079 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Vampiro,false,70,50,SER
+2024-10-17 10:19:35.080 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Hombre Lobo,false,80,40,SER
+2024-10-17 10:19:35.080 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Veela,false,60,60,SER
+2024-10-17 10:19:35.080 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Centauro,false,50,40,SER
+2024-10-17 10:19:35.081 [main] DEBUG utilidadesFicheros.ManejaFicheroCriaturas - Resumen generado correctamente en: C:\Users\EQUIPO\Desktop\2 DAM\Acceso a Datos\FantasticBeasts\src\main\resources\criaturaPorTipo.txt

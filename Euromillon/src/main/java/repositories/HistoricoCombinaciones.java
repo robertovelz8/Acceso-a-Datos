@@ -1,7 +1,7 @@
 package repositories;
 
-import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
@@ -42,32 +42,26 @@ public class HistoricoCombinaciones {
 	//Methods
 	
 	public void leerCsvCombinaciones (String ruta) {
-		try (Scanner scanner = new Scanner(new File(ruta))) {
-            scanner.useLocale(Locale.ENGLISH);
-			if (scanner.hasNextLine()) {
-                scanner.nextLine(); // Saltar la cabecera
-            }
-            while (scanner.hasNextLine()) {
-                String line = scanner.nextLine();
-                String[] values = line.split(",");
-                String fecha = values[0];
-                
-                List<Integer> numeros = new ArrayList<>();
-                for (int i = 1; i <= 5; i++) {
-                    numeros.add(Integer.parseInt(values[i].trim()));
-                }
-                
-                List<Integer> estrellas = new ArrayList<>();
-                estrellas.add(Integer.parseInt(values[7].trim()));
-                estrellas.add(Integer.parseInt(values[8].trim()));
-
-                Combinacion combinacion = new Combinacion(fecha, numeros, estrellas);
-                combinaciones.add(combinacion);
-            }
-        } catch (FileNotFoundException e) {
-            logger.debug("No se ha encontrado la ruta: "+ruta);
-        }
-		logger.debug(combinaciones);
+		Scanner sc = null;
+		try {
+			FileReader fichero = new FileReader(ruta);
+			sc = new Scanner(fichero);
+			sc.useLocale(Locale.ENGLISH);
+			sc.useDelimiter(", || \\n || \\r");
+			
+			//Saltar cabecera
+			if (sc.hasNextLine()) {
+				sc.nextLine();
+			}
+			
+			while(sc.hasNextLine()) {
+				Combinacion c = new Combinacion ();
+			}
+			
+		}catch(FileNotFoundException e) {
+			logger.error("No se ha encontrado la ruta: "+ruta);
+		}
+		
 	}
 	
 }
