@@ -1,0 +1,2 @@
+2024-10-17 12:36:59.585 [main] DEBUG controller.EmpleadoController - Empleado [identificador=empleado21, nombreApellido=Miguel Ramirez, edad=34, empresa=Su Empresa]
+2024-10-17 12:36:59.588 [main] DEBUG controller.EmpleadoController - [Empleado [identificador=empleado21, nombreApellido=Miguel Ramirez, edad=34, empresa=Su Empresa], Empleado [identificador=empleado22, nombreApellido=Juan Lopez, edad=51, empresa=Su Empresa 2]]
