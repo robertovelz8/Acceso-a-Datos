@@ -1,0 +1,17 @@
+<empleados>
+	<empleado identificador="1234">
+		<nombreApellido>Rodrigo Gómez</nombreApellido>
+		<edad>26</edad>
+		<empresa>Empresa1</empresa>
+	</empleado>
+	<empleado identificador="1235">
+		<nombreApellido>Lucia Fond</nombreApellido>
+		<edad>29</edad>
+		<empresa>Empresa1</empresa>
+	</empleado>
+	<empleado identificador="1235">
+		<nombreApellido>Zacarías Solís</nombreApellido>
+		<edad>38</edad>
+		<empresa>Empresa 2</empresa>
+	</empleado>
+</empleados>
