@@ -7,22 +7,34 @@ public class Empleado {
 	private String nombreApellido;
 	private int edad;
 	private String empresa;
+	private PuestoTrabajo puesto;
 	
 	
 	//Constructor
-
-	public Empleado(String identificador, String nombreApellido, int edad, String empresa) {
+	public Empleado(String identificador, String nombreApellido, int edad, String empresa, PuestoTrabajo puesto) {
 		this.identificador = identificador;
 		this.nombreApellido = nombreApellido;
 		this.edad = edad;
 		this.empresa = empresa;
+		this.puesto = puesto;
+	}
+
+	public Empleado() {
+		this.puesto = new PuestoTrabajo();
 	}
 
 	//Getters & Setters
 	public String getNombreApellido() {
 		return nombreApellido;
 	}
+	
+	public PuestoTrabajo getPuesto() {
+		return puesto;
+	}
 
+	public void setPuesto(PuestoTrabajo puesto) {
+		this.puesto = puesto;
+	}
 
 	public String getIdentificador() {
 		return identificador;
@@ -54,6 +66,12 @@ public class Empleado {
 
 	public void setEmpresa(String empresa) {
 		this.empresa = empresa;
+	}
+
+	@Override
+	public String toString() {
+		return "Empleado [identificador=" + identificador + ", nombreApellido=" + nombreApellido + ", edad=" + edad
+				+ ", empresa=" + empresa + ", puesto=" + puesto + "]";
 	}
 	
 	
