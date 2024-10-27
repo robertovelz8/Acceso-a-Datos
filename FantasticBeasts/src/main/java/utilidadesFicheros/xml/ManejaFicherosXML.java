@@ -18,7 +18,7 @@ import org.w3c.dom.Text;
 
 public abstract class ManejaFicherosXML <T> {
 
-	private static final String rutaResources = "C:\\Users\\EQUIPO\\Desktop\\2 DAM\\Acceso a Datos\\FantasticBeasts\\src\\main\\resources\\";
+	private static final String rutaResources = "C:\\Users\\rober\\Desktop\\2 DAM\\Acceso-a-Datos\\FantasticBeasts\\src\\main\\resources\\";
 
 	protected Document construyoObjetoDocumento(String nombreRaiz) throws ParserConfigurationException {
 		Document documento = null;

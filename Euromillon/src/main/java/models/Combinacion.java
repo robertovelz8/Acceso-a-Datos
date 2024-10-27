@@ -6,14 +6,14 @@ import java.util.Objects;
 public class Combinacion {
 	//Attributes
 		private String fecha;
-		private List<Integer> numeros;
+		private List<Integer> combinacion_ganadora;
 		private List<Integer> estrellas;
 		
 		//Constructors
-		public Combinacion(String fecha, List<Integer> numeros, List<Integer> estrellas) {
+		public Combinacion(String fecha, List<Integer> combinacion_ganadora, List<Integer> estrellas) {
 			super();
 			this.fecha = fecha;
-			this.numeros = numeros;
+			this.combinacion_ganadora = combinacion_ganadora;
 			this.estrellas = estrellas;
 		}
 		public Combinacion() {
@@ -28,10 +28,10 @@ public class Combinacion {
 			this.fecha = fecha;
 		}
 		public List<Integer> getNumeros() {
-			return numeros;
+			return combinacion_ganadora;
 		}
 		public void setNumeros(List<Integer> numeros) {
-			this.numeros = numeros;
+			this.combinacion_ganadora = numeros;
 		}
 		public List<Integer> getEstrellas() {
 			return estrellas;
@@ -43,7 +43,7 @@ public class Combinacion {
 		//hashCode, equals & toString
 		@Override
 		public int hashCode() {
-			return Objects.hash(estrellas, fecha, numeros);
+			return Objects.hash(estrellas, fecha, combinacion_ganadora);
 		}
 		@Override
 		public boolean equals(Object obj) {
@@ -55,10 +55,10 @@ public class Combinacion {
 				return false;
 			Combinacion other = (Combinacion) obj;
 			return Objects.equals(estrellas, other.estrellas) && Objects.equals(fecha, other.fecha)
-					&& Objects.equals(numeros, other.numeros);
+					&& Objects.equals(combinacion_ganadora, other.combinacion_ganadora);
 		}
 		@Override
 		public String toString() {
-			return "Combinacion [fecha=" + fecha + ", numeros=" + numeros + ", estrellas=" + estrellas + "]";
+			return "Combinacion [fecha=" + fecha + ", numeros=" + combinacion_ganadora + ", estrellas=" + estrellas + "]";
 		}
 }

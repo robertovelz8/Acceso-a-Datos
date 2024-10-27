@@ -1,2 +1,2 @@
-Combinación más frecuente: 3-5-8-10-44 Estrellas: 3-5
+Combinación más frecuente: [4, 30, 31, 38, 42]
 Estrella más frecuente: 3

@@ -3,6 +3,7 @@ package services;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.List;
 import java.util.Map;
 
 public class GestionaHistorico {
@@ -14,12 +15,11 @@ public class GestionaHistorico {
     }
 
     public void generarFicheroResumen(String filePath) {
-        String combinacionMasFrecuente = servicio.obtenerCombinacionMasFrecuente();
-        Map<String, Integer> masFrecuentes = servicio.calcularMasFrecuentes();
+         
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
-            writer.write("Combinación más frecuente: " + combinacionMasFrecuente + "\n");
-            writer.write("Estrella más frecuente: " + masFrecuentes.get("estrella") + "\n");
+            writer.write("Combinación más frecuente: "+servicio.combinacionMasFrecuente()+"\n");
+            writer.write("Estrella más frecuente: "+servicio.estrellaMasRepetida());
         } catch (IOException e) {
             e.printStackTrace();
         }

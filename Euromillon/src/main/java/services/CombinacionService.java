@@ -1,9 +1,9 @@
 package services;
 
-import java.util.Collections;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 import models.Combinacion;
 import repositories.HistoricoCombinaciones;
@@ -15,45 +15,57 @@ public class CombinacionService {
 	        this.historico = historico;
 	    }
 
-	    // Método que calcula el número y la estrella más frecuentes
-	    public Map<String, Integer> calcularMasFrecuentes() {
-	        Map<Integer, Integer> numeroFrecuencias = new HashMap<>();
-	        Map<Integer, Integer> estrellaFrecuencias = new HashMap<>();
+	    
+	    public int estrellaMasRepetida() {
+	    	List<Integer> estrellas = new ArrayList<>();
 
-	        for (Combinacion combinacion : historico.getCombinaciones()) {
-	            for (int numero : combinacion.getNumeros()) {
-	                numeroFrecuencias.put(numero, numeroFrecuencias.getOrDefault(numero, 0) + 1);
-	            }
-	            for (int estrella : combinacion.getEstrellas()) {
-	                estrellaFrecuencias.put(estrella, estrellaFrecuencias.getOrDefault(estrella, 0) + 1);
+	        for (Combinacion combi : historico.getCombinaciones()) {
+	            for (int estrella : combi.getEstrellas()) {
+	                estrellas.add(estrella);
 	            }
 	        }
 
-	        int numMasFrecuente = Collections.max(numeroFrecuencias.entrySet(), Map.Entry.comparingByValue()).getKey();
-	        int estrellaMasFrecuente = Collections.max(estrellaFrecuencias.entrySet(), Map.Entry.comparingByValue()).getKey();
+	        Map<Integer, Integer> frecuencia = new HashMap<>();
+	        int estrellaMasRepetida = -1; //No se ha encontrado de momento ninguna estrella repetida
+	        int maxRepeticiones = 0; //Numero de ocurrencias de cada estrella
 
-	        Map<String, Integer> resultado = new HashMap<>();
-	        resultado.put("numero", numMasFrecuente);
-	        resultado.put("estrella", estrellaMasFrecuente);
-	        return resultado;
-	    }
+	        for (int estrella : estrellas) {
+	            int contador = frecuencia.getOrDefault(estrella, 0) + 1;
+	            frecuencia.put(estrella, contador);
 
-	    // Método que cuenta la frecuencia de cada combinación
-	    public Map<String, Integer> calcularFrecuenciaCombinaciones() {
-	        Map<String, Integer> combinacionFrecuencias = new HashMap<>();
-
-	        for (Combinacion combinacion : historico.getCombinaciones()) {
-	            String combinacionStr = combinacion.getNumeros().stream().map(Object::toString).collect(Collectors.joining("-"))
-	                    + " Estrellas: " + combinacion.getEstrellas().stream().map(Object::toString).collect(Collectors.joining("-"));
-
-	            combinacionFrecuencias.put(combinacionStr, combinacionFrecuencias.getOrDefault(combinacionStr, 0) + 1);
+	            // Actualizar la estrella más repetida si es necesario
+	            if (contador > maxRepeticiones) {
+	                maxRepeticiones = contador;
+	                estrellaMasRepetida = estrella;
+	            }
 	        }
-	        return combinacionFrecuencias;
-	    }
 
-	    // Método que devuelve la combinación más frecuente
-	    public String obtenerCombinacionMasFrecuente() {
-	        Map<String, Integer> frecuencias = calcularFrecuenciaCombinaciones();
-	        return Collections.max(frecuencias.entrySet(), Map.Entry.comparingByValue()).getKey();
+	        return estrellaMasRepetida;
+	    }
+	    
+	    public Map<List<Integer>, Integer> contarCombinacion() {
+	    	Map<List<Integer>, Integer> frecuenciaCombinaciones = new HashMap<List<Integer>, Integer>();
+	    	for (Combinacion combi : historico.getCombinaciones()) {
+	    		List<Integer> combinacionesGanadoras = combi.getNumeros();
+	    		
+	    		int contador = frecuenciaCombinaciones.getOrDefault(combinacionesGanadoras, 0) + 1;
+	    		frecuenciaCombinaciones.put(combinacionesGanadoras, contador);
+	    	}
+	    	return frecuenciaCombinaciones;
+	    }
+	    
+	    public List<Integer> combinacionMasFrecuente () {
+	    	Map<List<Integer>, Integer> frecuenciaCombinaciones = contarCombinacion();
+	    	
+	    	List<Integer> combinacionMasFrecuente = new ArrayList<Integer>();
+	    	int frecuencia = 0;
+	    	
+	    	for (Map.Entry<List<Integer>, Integer> entry : frecuenciaCombinaciones.entrySet()) {
+	    		if (entry.getValue() > frecuencia) {
+	    			frecuencia = entry.getValue();
+	    			combinacionMasFrecuente = entry.getKey();
+	    		}
+	    	}
+	    	return combinacionMasFrecuente;
 	    }
 }

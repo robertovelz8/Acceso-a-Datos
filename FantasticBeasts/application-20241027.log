@@ -1,0 +1,2 @@
+2024-10-27 17:52:51.088 [main] ERROR utilidadesFicheros.xml.ManejaFicheroEmpleadoXML - java.io.FileNotFoundException: C:\Users\EQUIPO\Desktop\2 DAM\Acceso a Datos\FantasticBeasts\src\main\resources\empleado.xml (El sistema no puede encontrar la ruta especificada)
+2024-10-27 17:52:51.095 [main] ERROR utilidadesFicheros.xml.ManejaFicheroCriaturaXML - java.io.FileNotFoundException: C:\Users\EQUIPO\Desktop\2 DAM\Acceso a Datos\FantasticBeasts\src\main\resources\criatura.xml (El sistema no puede encontrar la ruta especificada)
