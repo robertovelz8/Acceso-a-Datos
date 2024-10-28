@@ -1,1 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><criatura tipo="BESTIA"><nombre>Unicornio</nombre><inmortal>false</inmortal><magia>23</magia><peligrosidad>12</peligrosidad></criatura>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<criatura tipo="BESTIA">
+    <nombre>Unicornio</nombre>
+    <inmortal>false</inmortal>
+    <magia>23</magia>
+    <peligrosidad>12</peligrosidad>
+</criatura>

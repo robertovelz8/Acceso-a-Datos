@@ -39,18 +39,21 @@ public class ManejaFicheroEmpleadoXML extends ManejaFicherosXML <Empleado>{
 		Element nombre = this.creaElemento("nombreApellido", e.getNombreApellido(), padre, documento);
 		Element edad = this.creaElemento("edad", Integer.toString(e.getEdad()), padre, documento);
 		Element empresa = this.creaElemento("empresa", e.getEmpresa(), padre, documento);
-		PuestoTrabajo p = e.getPuesto();
-		if(p != null) {
-			Element puestoElemento = documento.createElement("puesto");
-			padre.appendChild(puestoElemento);
-			Element identificador = this.creaElemento("identificador", p.getIdentificador(), padre, documento);
-			Element nombrePuesto = this.creaElemento("nombrePuesto", p.getNombrePuesto(), padre, documento);
-			Element departamento = this.creaElemento("departamento", p.getDepartamento(), padre, documento);
-			Element salario = this.creaElemento("salario", Double.toString(p.getSalario()), padre, documento);
-		}
+		agregaModeloEnXML(documento, padre, e.getPuesto());
 		// El identificador lo vamos a crear como un atributo de la etiqueta empleado
 		padre.setAttribute("identificador", e.getIdentificador());
 		
+	}
+	
+	protected void agregaModeloEnXML (Document documento, Element padre, PuestoTrabajo p) {
+		if(p != null) {
+			Element puestoElemento = documento.createElement("puesto");
+			padre.appendChild(puestoElemento);
+			Element identificador = this.creaElemento("identificador", p.getIdentificador(), puestoElemento, documento);
+			Element nombrePuesto = this.creaElemento("nombrePuesto", p.getNombrePuesto(), puestoElemento, documento);
+			Element departamento = this.creaElemento("departamento", p.getDepartamento(), puestoElemento, documento);
+			Element salario = this.creaElemento("salario", Double.toString(p.getSalario()), puestoElemento, documento);
+		}
 	}
 
 

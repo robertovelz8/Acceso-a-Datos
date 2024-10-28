@@ -17,7 +17,9 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Text;
 
-public abstract class ManejaFicherosXML <T> {
+import models.Empleado;
+
+public class ManejaEmpleadoMultipuestos ManejaFicherosXML <EmpleadoMultipuestos> {
 
 	private static final String rutaResources = "src\\main\\resources\\";
 
@@ -52,14 +54,17 @@ public abstract class ManejaFicherosXML <T> {
 		return elemento;
 	}
 	
-	public T getModeloFromXML (String nombreFichero, String nombreRaiz) {
-		
+	private  Empleado getEmpleadoFromElement(Element elemento) {
+			Empleado e = new Empleado();
+			String nombre = elemento.getElementsByTagName("nombreApellido").item(0).getTextContent();
+			int edad = Integer.parseInt(elemento.getElementsByTagName("edad").item(0).getTextContent());
+			String empresa = elemento.getElementsByTagName("empresa").item(0).getTextContent();
+			String id = elemento.getAttribute("identificador"); // La etiqueta empleado tiene el atributo identificador
+			e.setEdad(edad);
+			e.setNombreApellido(nombre);
+			e.setIdentificador(id);
+			e.setEmpresa(empresa);
+			return e;
 	}
 	
-	public T getModelosFromXML (String nombreFichero, String nombreRaiz) {
-		
-	}
-	
-	protected abstract void escribeModeloEnXML(String nombreFichero, T e); 
-	protected abstract void agregaModeloEnXML (Document documento, Element padre,  T c); 
 }
