@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Receta>
+    <titulo>Arroz con pollo</titulo>
+    <ingredientes>
+        <ingrediente cantidad="2 puñaos">Arroz</ingrediente>
+        <ingrediente cantidad="100g">Pollo</ingrediente>
+    </ingredientes>
+    <procedimiento>Asar el pollo y echarle especias</procedimiento>
+    <tiempo>2 horas</tiempo>
+</Receta>
