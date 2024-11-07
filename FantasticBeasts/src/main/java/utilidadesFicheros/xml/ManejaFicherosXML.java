@@ -51,14 +51,7 @@ public abstract class ManejaFicherosXML <T> {
 		elemento.appendChild(texto);// Cargo el elemento con el valor
 		return elemento;
 	}
-	
-	public T getModeloFromXML (String nombreFichero, String nombreRaiz) {
-		
-	}
-	
-	public T getModelosFromXML (String nombreFichero, String nombreRaiz) {
-		
-	}
+
 	
 	protected abstract void escribeModeloEnXML(String nombreFichero, T e); 
 	protected abstract void agregaModeloEnXML (Document documento, Element padre,  T c); 

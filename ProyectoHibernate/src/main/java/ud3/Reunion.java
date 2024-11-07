@@ -52,6 +52,13 @@ public class Reunion {
 	public void setAsunto(String asunto) {
 		this.asunto = asunto;
 	}
+
+
+	@Override
+	public String toString() {
+		return "Reunion [idReunion=" + idReunion + ", fecha=" + fecha + ", asunto=" + asunto + "]";
+	}
+	
 	
 	
 }

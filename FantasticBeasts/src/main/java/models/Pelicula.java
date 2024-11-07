@@ -1,6 +1,6 @@
 package models;
 
-public class Empleado {
+public class Pelicula {
 	
 	//Attributes
 	private String identificador;
@@ -11,7 +11,7 @@ public class Empleado {
 	
 	
 	//Constructor
-	public Empleado(String identificador, String nombreApellido, int edad, String empresa, PuestoTrabajo puesto) {
+	public Pelicula(String identificador, String nombreApellido, int edad, String empresa, PuestoTrabajo puesto) {
 		this.identificador = identificador;
 		this.nombreApellido = nombreApellido;
 		this.edad = edad;
@@ -19,7 +19,7 @@ public class Empleado {
 		this.puesto = puesto;
 	}
 
-	public Empleado() {
+	public Pelicula() {
 		this.puesto = new PuestoTrabajo();
 	}
 

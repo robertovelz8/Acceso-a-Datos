@@ -8,16 +8,16 @@ import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
-import models.Empleado;
+import models.Pelicula;
 import models.PuestoTrabajo;
 
-public class ManejaFicheroEmpleadoXML extends ManejaFicherosXML <Empleado>{
+public class ManejaFicheroEmpleadoXML extends ManejaFicherosXML <Pelicula>{
 	
 	private static final Logger logger = LogManager.getLogger(ManejaFicheroEmpleadoXML.class);
 
 
 	@Override
-	protected void escribeModeloEnXML(String nombreFichero, Empleado e) {
+	protected void escribeModeloEnXML(String nombreFichero, Pelicula e) {
 		try {
 			Document documento = this.construyoObjetoDocumento("empleado");
 			// Recupero la raíz del documento
@@ -34,7 +34,7 @@ public class ManejaFicheroEmpleadoXML extends ManejaFicherosXML <Empleado>{
 
 
 	@Override
-	protected void agregaModeloEnXML(Document documento, Element padre, Empleado e) {
+	protected void agregaModeloEnXML(Document documento, Element padre, Pelicula e) {
 		// Para cada una de los atributos de persona, creo un elemento hijo
 		Element nombre = this.creaElemento("nombreApellido", e.getNombreApellido(), padre, documento);
 		Element edad = this.creaElemento("edad", Integer.toString(e.getEdad()), padre, documento);
@@ -55,6 +55,4 @@ public class ManejaFicheroEmpleadoXML extends ManejaFicherosXML <Empleado>{
 			Element salario = this.creaElemento("salario", Double.toString(p.getSalario()), puestoElemento, documento);
 		}
 	}
-
-
 }
