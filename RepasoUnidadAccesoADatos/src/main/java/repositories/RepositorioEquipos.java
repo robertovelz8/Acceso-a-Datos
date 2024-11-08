@@ -37,10 +37,12 @@ public class RepositorioEquipos {
 	}
 
 	// consultar Equipos
-	public void consultarEquipos() {
+	public List<Equipo> consultarEquipos() {
+		List<Equipo> equiposLista = new ArrayList<Equipo>();
 		for (Equipo equipo : equipos) {
-			logger.debug(equipo);
+			equiposLista.add(equipo);
 		}
+		return equiposLista;
 	}
 
 	// Consultar 1 equipo

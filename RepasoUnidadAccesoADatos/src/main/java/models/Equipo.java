@@ -7,14 +7,14 @@ import java.util.Objects;
 public class Equipo {
 	
 	//Attributes
-	private String nombre;
+	private String nombreEquipo;
 	private String puntuacion;
 	private int identificadorEquipo;
 	List<Piloto> pilotos;
 
 	//Constructors
 	public Equipo(String nombre, String puntuacion, int identificadorEquipo, List<Piloto> pilotos) {
-		this.nombre = nombre;
+		this.nombreEquipo = nombre;
 		this.puntuacion = puntuacion;
 		this.identificadorEquipo = identificadorEquipo;
 		this.pilotos = new ArrayList<Piloto>();
@@ -28,12 +28,12 @@ public class Equipo {
 		return pilotos;
 	}
 
-	public String getNombre() {
-		return nombre;
+	public String getNombreEquipo() {
+		return nombreEquipo;
 	}
 
-	public void setNombre(String nombre) {
-		this.nombre = nombre;
+	public void setNombreEquipo(String nombreEquipo) {
+		this.nombreEquipo = nombreEquipo     ;
 	}
 
 	public String getPuntuacion() {
@@ -75,7 +75,7 @@ public class Equipo {
 
 	@Override
 	public String toString() {
-		return "Equipo [nombre=" + nombre + ", puntuacion=" + puntuacion + ", identificadorEquipo="
+		return "Equipo [nombre=" + nombreEquipo + ", puntuacion=" + puntuacion + ", identificadorEquipo="
 				+ identificadorEquipo + ", pilotos=" + pilotos + "]";
 	}
 }

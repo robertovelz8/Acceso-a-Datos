@@ -3,6 +3,7 @@ package controller;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import models.Piloto;
 import services.ServicioEquipo;
 import services.ServicioPiloto;
 
@@ -20,9 +21,17 @@ public class GestionaClasificacion {
 		
 		ServicioEquipo se = new ServicioEquipo();
 		se.crearEquipo("Red Bull", "342", 199012, sp.consultarPilotos());
-		se.consultarEquipos();
+		
+		logger.debug(se.consultarEquipos());
 		logger.debug(se.consultarEquipo(199012));
+		
+		sp.crearPiloto("123456B", "Michael Schumacher", "ALE", 212, 433245);
 
+		se.addPilotoAEquipo(199012, sp.consultarPiloto("123456B"));
+		logger.debug(se.consultarEquipo(199012));
+		
+		logger.debug(se.consultarPilotosPuntuacion(4));
+		
 	}
 
 }
