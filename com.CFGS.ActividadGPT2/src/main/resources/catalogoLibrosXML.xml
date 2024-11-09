@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CatalogoLibros>
+    <Libro>
+        <Titulo>Los Futbolisimos</Titulo>
+        <Autor>Juan Perez</Autor>
+        <ISBN>21332</ISBN>
+        <Genero>COMEDIA</Genero>
+    </Libro>
+    <Libro>
+        <Titulo>Dragon Ball</Titulo>
+        <Autor>Akira Tori Yama</Autor>
+        <ISBN>21332</ISBN>
+        <Genero>FICCION</Genero>
+    </Libro>
+    <Libro>
+        <Titulo>Harry Potter</Titulo>
+        <Autor>J.K Rowling</Autor>
+        <ISBN>21312</ISBN>
+        <Genero>FICCION</Genero>
+    </Libro>
+</CatalogoLibros>

@@ -1,0 +1,17 @@
+Estudiantes
+------------------
+Nombre: Maria
+Id Estudiante: 002
+Curso: 2º Carrera
+------------------
+Nombre: Manolo
+Id Estudiante: 003
+Curso: 2º ESO
+------------------
+Nombre: Laura
+Id Estudiante: 004
+Curso: 2º Carrera
+------------------
+Nombre: Esteba
+Id Estudiante: 005
+Curso: Trabajando

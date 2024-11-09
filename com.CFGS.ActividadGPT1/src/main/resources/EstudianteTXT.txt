@@ -1,0 +1,3 @@
+Nombre: Paco
+Id Estudiante: 001
+Curso: 1º Bchillerato

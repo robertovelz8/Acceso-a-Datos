@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Catalogo>
+        
+    <Producto>
+                
+        <Nombre>Smartphone</Nombre>
+                
+        <Precio>699.99</Precio>
+                
+        <Cantidad>50</Cantidad>
+                
+        <Categoria>Electrónica</Categoria>
+            
+    </Producto>
+        
+    <Producto>
+                
+        <Nombre>Laptop</Nombre>
+                
+        <Precio>1200.0</Precio>
+                
+        <Cantidad>30</Cantidad>
+                
+        <Categoria>Electrónica</Categoria>
+            
+    </Producto>
+        
+    <Producto>
+                
+        <Nombre>Refrigerador</Nombre>
+                
+        <Precio>500.0</Precio>
+                
+        <Cantidad>15</Cantidad>
+                
+        <Categoria>Hogar</Categoria>
+            
+    </Producto>
+        
+    <Producto>
+                
+        <Nombre>Armario Vintage</Nombre>
+                
+        <Precio>200.0</Precio>
+                
+        <Cantidad>10</Cantidad>
+                
+        <Categoria>Hogar</Categoria>
+            
+    </Producto>
+        
+    <Producto>
+                
+        <Nombre>Armario Negro</Nombre>
+                
+        <Precio>200.0</Precio>
+                
+        <Cantidad>50</Cantidad>
+                
+        <Categoria>Hogar</Categoria>
+            
+    </Producto>
+    
+</Catalogo>

@@ -61,8 +61,8 @@ public class ManejoFicherosPiloto {
 			return e;
 		}
 
-		public List<Pelicula> getPeliculasFromXML(String nombreFichero, String nombreRaiz) {
-			List<Pelicula> modelos = new ArrayList<Pelicula>();
+		public List<Piloto> getPilotoFromXML(String nombreFichero, String nombreRaiz) {
+			List<Piloto> modelos = new ArrayList<Piloto>();
 			Document documento = getDocumentFromXML(nombreFichero);
 			NodeList nodoRaiz = documento.getElementsByTagName(nombreRaiz);
 			Node raiz = nodoRaiz.item(0); // obtengo el nodo raíz
@@ -73,7 +73,7 @@ public class ManejoFicherosPiloto {
 					for (int j = 0; j < nodosHijos.getLength(); j++) {
 						Node modeloNodo = nodosHijos.item(j);
 						if (modeloNodo.getNodeType() == Node.ELEMENT_NODE) {
-							Pelicula p = this.getPeliculaFromElement((Element) modeloNodo);
+							Piloto p = this.getPilotoFromElement((Element) modeloNodo);
 							modelos.add(p);
 						}
 					}

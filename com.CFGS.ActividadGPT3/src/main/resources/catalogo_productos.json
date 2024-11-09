@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Smartphone",
+    "precio": 699.99,
+    "cantidad": 50,
+    "categoriaProducto": "Electrónica"
+  },
+  {
+    "nombre": "Laptop",
+    "precio": 1200.0,
+    "cantidad": 30,
+    "categoriaProducto": "Electrónica"
+  },
+  {
+    "nombre": "Refrigerador",
+    "precio": 500.0,
+    "cantidad": 15,
+    "categoriaProducto": "Hogar"
+  },
+  {
+    "nombre": "Armario Vintage",
+    "precio": 200.0,
+    "cantidad": 10,
+    "categoriaProducto": "Hogar"
+  },
+  {
+    "nombre": "Armario Negro",
+    "precio": 200.0,
+    "cantidad": 20,
+    "categoriaProducto": "Hogar"
+  }
+]
