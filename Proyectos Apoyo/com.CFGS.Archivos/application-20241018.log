@@ -1,0 +1,8 @@
+2024-10-18 12:24:47.474 [main] INFO  controlador.EmpleadoControlador - Empleado [identificador=empleado21, nombreApellido=Miguel Ramirez, edad=34, empresa=Su Empresa]
+2024-10-18 12:24:47.477 [main] INFO  controlador.EmpleadoControlador - [Lmodelo.Empleado;@1033576a
+2024-10-18 12:24:47.478 [main] INFO  controlador.EmpleadoControlador - Empleado [identificador=empleado21, nombreApellido=Miguel Ramirez, edad=34, empresa=Su Empresa]
+2024-10-18 12:24:47.478 [main] INFO  controlador.EmpleadoControlador - Empleado [identificador=empleado22, nombreApellido=Andres Ramirez, edad=36, empresa=Mi Empresa]
+2024-10-18 12:32:58.080 [main] INFO  controlador.EmpleadoControlador - Empleado [identificador=empleado21, nombreApellido=Miguel Ramirez, edad=34, empresa=Su Empresa]
+2024-10-18 12:32:58.083 [main] INFO  controlador.EmpleadoControlador - [Lmodelo.Empleado;@1033576a
+2024-10-18 12:32:58.083 [main] INFO  controlador.EmpleadoControlador - Empleado [identificador=empleado21, nombreApellido=Miguel Ramirez, edad=34, empresa=Su Empresa]
+2024-10-18 12:32:58.084 [main] INFO  controlador.EmpleadoControlador - Empleado [identificador=empleado22, nombreApellido=Andres Ramirez, edad=36, empresa=Mi Empresa]

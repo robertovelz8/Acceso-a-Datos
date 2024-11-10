@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListaPerros>
+    <perro id="perro01">
+        <Nombre>Lobo</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Pastor Alemán</Raza>
+        <Color>marrón</Color>
+        <Edad>4</Edad>
+        <Peso>20</Peso>
+    </perro>
+    <perro id="perro03">
+        <Nombre>Max</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Labrador</Raza>
+        <Color>negro</Color>
+        <Edad>6</Edad>
+        <Peso>30</Peso>
+    </perro>
+    <perro id="perro05">
+        <Nombre>Rocky</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Bulldog</Raza>
+        <Color>blanco</Color>
+        <Edad>5</Edad>
+        <Peso>22</Peso>
+    </perro>
+    <perro id="perro07">
+        <Nombre>Charlie</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Beagle</Raza>
+        <Color>marrón</Color>
+        <Edad>3</Edad>
+        <Peso>10</Peso>
+    </perro>
+    <perro id="perro09">
+        <Nombre>Buddy</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Boxer</Raza>
+        <Color>marrón</Color>
+        <Edad>7</Edad>
+        <Peso>28</Peso>
+    </perro>
+</ListaPerros>

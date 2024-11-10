@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListaPerros>
+    <perro id="perro02">
+        <Nombre>Luna</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Chihuahua</Raza>
+        <Color>rojo</Color>
+        <Edad>3</Edad>
+        <Peso>5</Peso>
+    </perro>
+    <perro id="perro04">
+        <Nombre>Bella</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Golden Retriever</Raza>
+        <Color>dorado</Color>
+        <Edad>2</Edad>
+        <Peso>25</Peso>
+    </perro>
+    <perro id="perro06">
+        <Nombre>Lucy</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Poodle</Raza>
+        <Color>blanco</Color>
+        <Edad>4</Edad>
+        <Peso>8</Peso>
+    </perro>
+    <perro id="perro08">
+        <Nombre>Molly</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Cocker Spaniel</Raza>
+        <Color>dorado</Color>
+        <Edad>5</Edad>
+        <Peso>12</Peso>
+    </perro>
+    <perro id="perro10">
+        <Nombre>Daisy</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Shih Tzu</Raza>
+        <Color>blanco</Color>
+        <Edad>2</Edad>
+        <Peso>6</Peso>
+    </perro>
+</ListaPerros>

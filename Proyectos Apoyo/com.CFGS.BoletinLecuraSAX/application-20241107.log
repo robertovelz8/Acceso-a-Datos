@@ -1,0 +1,22 @@
+2024-11-07 08:34:00.426 [main] DEBUG Controlador.App - Título: Creepy Crawlies
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Lover Birds
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: MSXML3: A Comprehensive Guide
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Maeve Ascendant
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Microsoft .NET: The Programming Bible
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Midnight Rain
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Oberon's Legacy
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Paradox Lost
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Splish Splash
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: The Sundered Grail
+2024-11-07 08:34:00.428 [main] DEBUG Controlador.App - Título: Visual Studio 7: A Comprehensive Guide
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: XML Developer's Guide
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - 
+Libros con precio menor a 20.0:
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: Creepy Crawlies, Precio: 4.95
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: Lover Birds, Precio: 4.95
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: Maeve Ascendant, Precio: 5.95
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: Midnight Rain, Precio: 5.95
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: Oberon's Legacy, Precio: 5.95
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: Paradox Lost, Precio: 6.95
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: Splish Splash, Precio: 4.95
+2024-11-07 08:34:00.429 [main] DEBUG Controlador.App - Título: The Sundered Grail, Precio: 5.95

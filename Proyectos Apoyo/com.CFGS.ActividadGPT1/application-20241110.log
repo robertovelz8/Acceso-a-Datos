@@ -1,0 +1,17 @@
+2024-11-10 13:58:09.037 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Maria, edad=19, idEstudiante=002, curso=2º Carrera]
+2024-11-10 13:58:09.039 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Manolo, edad=13, idEstudiante=003, curso=2º ESO]
+2024-11-10 13:58:09.039 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Laura, edad=19, idEstudiante=004, curso=2º Carrera]
+2024-11-10 13:58:09.039 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Esteba, edad=30, idEstudiante=005, curso=Trabajando]
+2024-11-10 13:58:09.040 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Paco, edad=17, idEstudiante=001, curso=1º Bchillerato]
+2024-11-10 13:58:09.045 [main] DEBUG utilidades.UtilesEstudiantes - EstudianteCSV.csv (El sistema no puede encontrar el archivo especificado)
+2024-11-10 13:58:52.639 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Maria, edad=19, idEstudiante=002, curso=2º Carrera]
+2024-11-10 13:58:52.641 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Manolo, edad=13, idEstudiante=003, curso=2º ESO]
+2024-11-10 13:58:52.641 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Laura, edad=19, idEstudiante=004, curso=2º Carrera]
+2024-11-10 13:58:52.641 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Esteba, edad=30, idEstudiante=005, curso=Trabajando]
+2024-11-10 13:58:52.642 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Paco, edad=17, idEstudiante=001, curso=1º Bchillerato]
+2024-11-10 13:58:52.647 [main] DEBUG utilidades.UtilesEstudiantes - EstudianteCSV.csv (El sistema no puede encontrar el archivo especificado)
+2024-11-10 13:59:50.956 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Maria, edad=19, idEstudiante=002, curso=2º Carrera]
+2024-11-10 13:59:50.958 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Manolo, edad=13, idEstudiante=003, curso=2º ESO]
+2024-11-10 13:59:50.958 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Laura, edad=19, idEstudiante=004, curso=2º Carrera]
+2024-11-10 13:59:50.958 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Esteba, edad=30, idEstudiante=005, curso=Trabajando]
+2024-11-10 13:59:50.959 [main] DEBUG utilidades.UtilesEstudiantes - Estudiante [nombre=Paco, edad=17, idEstudiante=001, curso=1º Bchillerato]

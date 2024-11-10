@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Maria",
+    "edad": 19,
+    "idEstudiante": "002",
+    "curso": "2º Carrera"
+  },
+  {
+    "nombre": "Manolo",
+    "edad": 13,
+    "idEstudiante": "003",
+    "curso": "2º ESO"
+  },
+  {
+    "nombre": "Laura",
+    "edad": 19,
+    "idEstudiante": "004",
+    "curso": "2º Carrera"
+  },
+  {
+    "nombre": "Esteba",
+    "edad": 30,
+    "idEstudiante": "005",
+    "curso": "Trabajando"
+  }
+]

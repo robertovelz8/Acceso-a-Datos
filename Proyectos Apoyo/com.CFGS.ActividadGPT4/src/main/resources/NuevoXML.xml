@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Pedidos>
+    <Pedido>
+        <IDPedido>1242315</IDPedido>
+        <NombreCliente>Sergio Turrillo</NombreCliente>
+        <Platos>
+            <Plato>
+                <Nombre>Kebab</Nombre>
+                <Precio>7.0</Precio>
+            </Plato>
+            <Plato>
+                <Nombre>Patatas Fritas</Nombre>
+                <Precio>5.0</Precio>
+            </Plato>
+        </Platos>
+        <Total>12.0</Total>
+    </Pedido>
+    <Pedido>
+        <IDPedido>101</IDPedido>
+        <NombreCliente>Carlos García</NombreCliente>
+        <Platos>
+            <Plato>
+                <Nombre>Hamburguesa</Nombre>
+                <Precio>8.5</Precio>
+            </Plato>
+            <Plato>
+                <Nombre>Papas Fritas</Nombre>
+                <Precio>3.0</Precio>
+            </Plato>
+        </Platos>
+        <Total>11.5</Total>
+    </Pedido>
+    <Pedido>
+        <IDPedido>102</IDPedido>
+        <NombreCliente>Ana Torres</NombreCliente>
+        <Platos>
+            <Plato>
+                <Nombre>Ensalada</Nombre>
+                <Precio>5.5</Precio>
+            </Plato>
+            <Plato>
+                <Nombre>Jugo de Naranja</Nombre>
+                <Precio>2.5</Precio>
+            </Plato>
+        </Platos>
+        <Total>8.0</Total>
+    </Pedido>
+</Pedidos>

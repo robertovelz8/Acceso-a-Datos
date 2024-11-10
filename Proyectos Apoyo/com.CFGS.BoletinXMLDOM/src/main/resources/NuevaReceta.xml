@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Receta>
+    <titulo>Tortilla de Patatas</titulo>
+    <ingredientes>
+        <ingrediente cantidad="6">Huevos</ingrediente>
+        <ingrediente cantidad="4">Patatas</ingrediente>
+    </ingredientes>
+    <procedimiento>Mezcla los ingredientes y a la olla hasta que este hecha.</procedimiento>
+    <tiempo>10 minutos</tiempo>
+</Receta>

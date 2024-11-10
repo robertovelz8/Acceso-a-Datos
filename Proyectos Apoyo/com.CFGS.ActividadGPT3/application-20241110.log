@@ -1,0 +1,278 @@
+2024-11-10 15:37:01.640 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:37:01.642 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:37:01.642 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:37:01.642 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:37:01.642 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:37:01.642 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:37:01.642 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:37:01.643 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:37:01.644 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:37:01.644 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:37:01.644 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:37:01.644 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:37:01.644 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:37:01.644 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:37:01.644 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:37:01.674 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:37:01.708 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 15:43:33.545 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:43:33.547 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:43:33.547 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:43:33.547 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:43:33.547 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:43:33.547 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:43:33.547 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:43:33.548 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:43:33.549 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:43:33.582 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:43:33.616 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 15:48:02.224 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:48:02.226 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:48:02.227 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:48:02.228 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:48:02.229 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:48:02.260 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:48:02.295 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 15:49:12.088 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:49:12.090 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:49:12.091 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:12.092 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:12.122 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:49:12.153 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 15:49:46.819 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:49:46.822 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:46.823 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:49:46.824 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:49:46.824 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:49:46.824 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:46.824 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:46.853 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:49:46.881 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 15:49:59.645 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:49:59.647 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:59.648 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:49:59.649 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:49:59.649 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:49:59.649 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:49:59.649 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:49:59.678 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:49:59.710 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 15:58:40.365 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:58:40.367 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:58:40.367 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:58:40.367 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:58:40.367 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:58:40.367 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:58:40.367 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:58:40.368 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:58:40.369 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:58:40.369 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:58:40.369 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:58:40.369 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:58:40.369 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:58:40.369 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:58:40.400 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:58:40.430 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 15:59:04.115 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:59:04.118 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 15:59:04.119 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 15:59:04.120 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 15:59:04.120 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 15:59:04.120 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 15:59:04.151 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 15:59:04.184 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito
+2024-11-10 16:01:31.367 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 16:01:31.369 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 16:01:31.369 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 16:01:31.369 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 16:01:31.369 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 16:01:31.370 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - cantidad: 5
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 16:01:31.371 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.403 [main] DEBUG utiles.UtilidadesProductos - Nombre: Smartphone
+2024-11-10 16:01:31.403 [main] DEBUG utiles.UtilidadesProductos - precio: 699.99
+2024-11-10 16:01:31.403 [main] DEBUG utiles.UtilidadesProductos - cantidad: 50
+2024-11-10 16:01:31.403 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 16:01:31.403 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - Nombre: Laptop
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - precio: 1200.0
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - cantidad: 30
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - Categoria: Electrónica
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - Nombre: Refrigerador
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - precio: 500.0
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - cantidad: 15
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Vintage
+2024-11-10 16:01:31.404 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - cantidad: 10
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - Nombre: Armario Negro
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - precio: 200.0
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - cantidad: 5
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - Categoria: Hogar
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - ---------------------------
+2024-11-10 16:01:31.405 [main] DEBUG utiles.UtilidadesProductos - Catálogo guardado en el archivo XML.
+2024-11-10 16:01:31.438 [main] DEBUG utiles.UtilidadesProductos - JSON ha sido creado con exito

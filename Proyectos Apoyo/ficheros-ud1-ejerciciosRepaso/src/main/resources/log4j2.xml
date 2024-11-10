@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Appenders>
+		<!-- Configurar un appender que imprima a la consola -->
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+
+	<Loggers>
+		<!-- Configurar el logger para la clase raíz -->
+		<Root level="debug">
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+</Configuration>

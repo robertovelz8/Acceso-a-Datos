@@ -1,0 +1,118 @@
+2024-11-10 14:59:53.262 [main] DEBUG controlador.GestorLibros - Libro agregado: []
+2024-11-10 14:59:53.269 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-10 14:59:53.269 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA], Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21332, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-10 14:59:53.332 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 14:59:53.333 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-10 14:59:53.334 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]
+2024-11-10 14:59:53.337 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 14:59:53.341 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:03.621 [main] DEBUG controlador.GestorLibros - Libro agregado: []
+2024-11-10 15:02:03.627 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:02:03.627 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: []
+2024-11-10 15:02:03.664 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:03.667 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:03.671 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:34.427 [main] DEBUG controlador.GestorLibros - Libro agregado: []
+2024-11-10 15:02:34.434 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-10 15:02:34.434 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: []
+2024-11-10 15:02:34.470 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:34.473 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:34.475 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:59.390 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]]
+2024-11-10 15:02:59.396 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-10 15:02:59.396 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]]
+2024-11-10 15:02:59.429 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:59.430 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-10 15:02:59.432 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:02:59.435 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:03:30.191 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:03:30.198 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:03:30.198 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:03:30.236 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:03:30.237 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]
+2024-11-10 15:03:30.239 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:03:30.241 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:04:03.055 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Harry Potter, ISBN=11332, generoLibro=DRAMA]]
+2024-11-10 15:04:03.061 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:04:03.061 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Harry Potter, ISBN=11332, generoLibro=DRAMA]]
+2024-11-10 15:04:03.097 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:04:03.098 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:04:03.100 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:05:42.834 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]]
+2024-11-10 15:05:42.842 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:05:42.843 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]]
+2024-11-10 15:05:42.908 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:05:42.910 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-10 15:05:49.438 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:05:49.443 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:05:49.444 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:05:49.491 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:05:49.493 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]
+2024-11-10 15:06:09.819 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:06:09.825 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:06:09.825 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:06:09.864 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:06:09.866 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]
+2024-11-10 15:08:52.494 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:08:52.499 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:08:52.499 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:08:52.533 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:08:52.534 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]
+2024-11-10 15:09:21.063 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:09:21.074 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:09:21.074 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:09:21.112 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:09:21.113 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]
+2024-11-10 15:10:40.135 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:10:40.139 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:10:40.140 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:10:40.177 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:10:40.178 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]
+2024-11-10 15:13:15.438 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:13:15.444 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:13:15.444 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]]
+2024-11-10 15:13:15.480 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:13:15.481 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=31332, generoLibro=DRAMA]
+2024-11-10 15:17:43.785 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:17:43.793 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:17:43.793 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:17:43.831 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:17:43.832 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]
+2024-11-10 15:20:11.709 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:20:11.722 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:20:11.723 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:20:11.761 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:20:11.762 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]
+2024-11-10 15:22:10.321 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:22:10.326 [main] ERROR utiles.UtilesLibros - Error XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:22:10.326 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:22:10.364 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:22:10.365 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]
+2024-11-10 15:25:17.109 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:25:17.113 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:25:17.114 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:25:17.144 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:25:17.145 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]
+2024-11-10 15:25:27.697 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:25:27.702 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:25:27.702 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:25:27.733 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:28:49.051 [main] DEBUG controlador.GestorLibros - Libros agregados: []
+2024-11-10 15:28:49.056 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:28:49.056 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: []
+2024-11-10 15:28:49.087 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:28:49.089 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:28:49.091 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:30:07.288 [main] DEBUG controlador.GestorLibros - Libros agregados: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:30:07.293 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:30:07.293 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]]
+2024-11-10 15:30:07.324 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:30:07.325 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=41332, generoLibro=COMEDIA]
+2024-11-10 15:30:07.327 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:30:07.330 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:31:18.813 [main] DEBUG controlador.GestorLibros - Libros agregados: []
+2024-11-10 15:31:18.818 [main] ERROR utiles.UtilesLibros - Error al cargar libros desde XML: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
+2024-11-10 15:31:18.818 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: []
+2024-11-10 15:31:18.848 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:31:18.850 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-10 15:31:18.852 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.

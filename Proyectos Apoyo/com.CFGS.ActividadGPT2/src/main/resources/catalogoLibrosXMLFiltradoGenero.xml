@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CatalogoLibros>
+    <Libro>
+        <Titulo>Dragon Ball</Titulo>
+        <Autores>Akira Tori Yama</Autores>
+        <ISBN>41332</ISBN>
+        <Genero>COMEDIA</Genero>
+    </Libro>
+</CatalogoLibros>

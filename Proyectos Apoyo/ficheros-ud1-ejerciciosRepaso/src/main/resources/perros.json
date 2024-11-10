@@ -1,0 +1,92 @@
+[
+  {
+    "identificador": "perro01",
+    "nombre": "Lobo",
+    "sexo": "macho",
+    "raza": "Pastor Alemán",
+    "color": "marrón",
+    "edad": 4,
+    "peso": 20
+  },
+  {
+    "identificador": "perro02",
+    "nombre": "Luna",
+    "sexo": "hembra",
+    "raza": "Chihuahua",
+    "color": "rojo",
+    "edad": 3,
+    "peso": 5
+  },
+  {
+    "identificador": "perro03",
+    "nombre": "Max",
+    "sexo": "macho",
+    "raza": "Labrador",
+    "color": "negro",
+    "edad": 6,
+    "peso": 30
+  },
+  {
+    "identificador": "perro04",
+    "nombre": "Bella",
+    "sexo": "hembra",
+    "raza": "Golden Retriever",
+    "color": "dorado",
+    "edad": 2,
+    "peso": 25
+  },
+  {
+    "identificador": "perro05",
+    "nombre": "Rocky",
+    "sexo": "macho",
+    "raza": "Bulldog",
+    "color": "blanco",
+    "edad": 5,
+    "peso": 22
+  },
+  {
+    "identificador": "perro06",
+    "nombre": "Lucy",
+    "sexo": "hembra",
+    "raza": "Poodle",
+    "color": "blanco",
+    "edad": 4,
+    "peso": 8
+  },
+  {
+    "identificador": "perro07",
+    "nombre": "Charlie",
+    "sexo": "macho",
+    "raza": "Beagle",
+    "color": "marrón",
+    "edad": 3,
+    "peso": 10
+  },
+  {
+    "identificador": "perro08",
+    "nombre": "Molly",
+    "sexo": "hembra",
+    "raza": "Cocker Spaniel",
+    "color": "dorado",
+    "edad": 5,
+    "peso": 12
+  },
+  {
+    "identificador": "perro09",
+    "nombre": "Buddy",
+    "sexo": "macho",
+    "raza": "Boxer",
+    "color": "marrón",
+    "edad": 7,
+    "peso": 28
+  },
+  {
+    "identificador": "perro10",
+    "nombre": "Daisy",
+    "sexo": "hembra",
+    "raza": "Shih Tzu",
+    "color": "blanco",
+    "edad": 2,
+    "peso": 6
+  }
+]

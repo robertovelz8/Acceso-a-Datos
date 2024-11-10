@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Perros>
+    <Perro id="perro01">
+        <Nombre>Lobo</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Pastor Alemán</Raza>
+        <Color>marrón</Color>
+        <Edad>5</Edad>
+        <Peso>20</Peso>
+        <Vacunado>true</Vacunado>
+    </Perro>
+    <Perro id="perro02">
+        <Nombre>Luna</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Chihuahua</Raza>
+        <Color>rojo</Color>
+        <Edad>4</Edad>
+        <Peso>5</Peso>
+        <Vacunado>false</Vacunado>
+    </Perro>
+    <Perro id="perro03">
+        <Nombre>Max</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Labrador</Raza>
+        <Color>negro</Color>
+        <Edad>7</Edad>
+        <Peso>30</Peso>
+        <Vacunado>true</Vacunado>
+    </Perro>
+    <Perro id="perro04">
+        <Nombre>Bella</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Golden Retriever</Raza>
+        <Color>dorado</Color>
+        <Edad>3</Edad>
+        <Peso>25</Peso>
+        <Vacunado>false</Vacunado>
+    </Perro>
+    <Perro id="perro05">
+        <Nombre>Rocky</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Bulldog</Raza>
+        <Color>blanco</Color>
+        <Edad>6</Edad>
+        <Peso>22</Peso>
+        <Vacunado>true</Vacunado>
+    </Perro>
+    <Perro id="perro06">
+        <Nombre>Lucy</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Poodle</Raza>
+        <Color>blanco</Color>
+        <Edad>5</Edad>
+        <Peso>8</Peso>
+        <Vacunado>true</Vacunado>
+    </Perro>
+    <Perro id="perro07">
+        <Nombre>Charlie</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Beagle</Raza>
+        <Color>marrón</Color>
+        <Edad>4</Edad>
+        <Peso>10</Peso>
+        <Vacunado>false</Vacunado>
+    </Perro>
+    <Perro id="perro08">
+        <Nombre>Molly</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Cocker Spaniel</Raza>
+        <Color>dorado</Color>
+        <Edad>6</Edad>
+        <Peso>12</Peso>
+        <Vacunado>true</Vacunado>
+    </Perro>
+    <Perro id="perro09">
+        <Nombre>Buddy</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Boxer</Raza>
+        <Color>marrón</Color>
+        <Edad>8</Edad>
+        <Peso>28</Peso>
+        <Vacunado>true</Vacunado>
+    </Perro>
+    <Perro id="perro10">
+        <Nombre>Daisy</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Shih Tzu</Raza>
+        <Color>blanco</Color>
+        <Edad>3</Edad>
+        <Peso>6</Peso>
+        <Vacunado>false</Vacunado>
+    </Perro>
+</Perros>

@@ -1,0 +1,86 @@
+[
+  {
+    "tipo": "ingerida",
+    "nombre": "Alcohol",
+    "dosis": 150,
+    "paisDeProcedencia": "Escocia",
+    "mortal": false
+  },
+  {
+    "tipo": "fumada",
+    "nombre": "Marihuana",
+    "dosis": 5,
+    "paisDeProcedencia": "Jamaica",
+    "mortal": false
+  },
+  {
+    "tipo": "esnifada",
+    "nombre": "Cocaína",
+    "dosis": 1,
+    "paisDeProcedencia": "Colombia",
+    "mortal": true
+  },
+  {
+    "tipo": "inyectada",
+    "nombre": "Heroína",
+    "dosis": 0.5,
+    "paisDeProcedencia": "Afganistán",
+    "mortal": true
+  },
+  {
+    "tipo": "ingerida",
+    "nombre": "Éxtasis",
+    "dosis": 1,
+    "paisDeProcedencia": "Países Bajos",
+    "mortal": false
+  },
+  {
+    "tipo": "fumada",
+    "nombre": "Crack",
+    "dosis": 0.2,
+    "paisDeProcedencia": "Estados Unidos",
+    "mortal": true
+  },
+  {
+    "tipo": "esnifada",
+    "nombre": "Ketamina",
+    "dosis": 0.5,
+    "paisDeProcedencia": "Reino Unido",
+    "mortal": false
+  },
+  {
+    "tipo": "ingerida",
+    "nombre": "LSD",
+    "dosis": 0.05,
+    "paisDeProcedencia": "Suiza",
+    "mortal": false
+  },
+  {
+    "tipo": "inyectada",
+    "nombre": "Metanfetamina",
+    "dosis": 1,
+    "paisDeProcedencia": "México",
+    "mortal": true
+  },
+  {
+    "tipo": "fumada",
+    "nombre": "Hachís",
+    "dosis": 5,
+    "paisDeProcedencia": "Marruecos",
+    "mortal": false
+  },
+  {
+    "tipo": "ingerida",
+    "nombre": "Ayahuasca",
+    "dosis": 15,
+    "paisDeProcedencia": "Perú",
+    "mortal": false
+  },
+  {
+    "tipo": "esnifada",
+    "nombre": "Anfetamina",
+    "dosis": 5,
+    "paisDeProcedencia": "Alemania",
+    "mortal": false
+  }
+]

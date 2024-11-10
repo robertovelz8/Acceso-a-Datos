@@ -1,0 +1,431 @@
+[
+  {
+    "nombre": "Alcohol",
+    "dosis": 150.0,
+    "paisDeProcedencia": "Escocia",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 4,
+        "nombre": "Godoy AsertivityMan",
+        "edad": 30,
+        "ciudadDeProcedencia": "Madrid",
+        "adiccion": "Alcohol",
+        "proyectoHombre": true,
+        "dineroInvertido": 1250.75
+      },
+      {
+        "detenciones": 3,
+        "nombre": "José",
+        "edad": 46,
+        "ciudadDeProcedencia": "Cádiz",
+        "adiccion": "Alcohol",
+        "proyectoHombre": false,
+        "dineroInvertido": 1150.75
+      },
+      {
+        "detenciones": 6,
+        "nombre": "Adrián",
+        "edad": 47,
+        "ciudadDeProcedencia": "León",
+        "adiccion": "Alcohol",
+        "proyectoHombre": false,
+        "dineroInvertido": 1350.85
+      },
+      {
+        "detenciones": 3,
+        "nombre": "Gonzalo",
+        "edad": 60,
+        "ciudadDeProcedencia": "Santiago",
+        "adiccion": "Alcohol",
+        "proyectoHombre": true,
+        "dineroInvertido": 800.5
+      },
+      {
+        "detenciones": 2,
+        "nombre": "Emilia",
+        "edad": 34,
+        "ciudadDeProcedencia": "Valencia",
+        "adiccion": "Alcohol",
+        "proyectoHombre": false,
+        "dineroInvertido": 900.0
+      }
+    ]
+  },
+  {
+    "nombre": "Marihuana",
+    "dosis": 5.0,
+    "paisDeProcedencia": "Jamaica",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 2,
+        "nombre": "Hugo",
+        "edad": 27,
+        "ciudadDeProcedencia": "Barcelona",
+        "adiccion": "Marihuana",
+        "proyectoHombre": false,
+        "dineroInvertido": 750.3
+      },
+      {
+        "detenciones": 3,
+        "nombre": "Iván",
+        "edad": 29,
+        "ciudadDeProcedencia": "Toledo",
+        "adiccion": "Marihuana",
+        "proyectoHombre": true,
+        "dineroInvertido": 300.45
+      }
+    ]
+  },
+  {
+    "nombre": "Cocaína",
+    "dosis": 1.0,
+    "paisDeProcedencia": "Colombia",
+    "mortal": true,
+    "enganchaos": [
+      {
+        "detenciones": 5,
+        "nombre": "Tito Rober",
+        "edad": 34,
+        "ciudadDeProcedencia": "Valencia",
+        "adiccion": "Cocaína",
+        "proyectoHombre": true,
+        "dineroInvertido": 3200.9
+      },
+      {
+        "detenciones": 2,
+        "nombre": "Juan Carlos",
+        "edad": 49,
+        "ciudadDeProcedencia": "Valencia",
+        "adiccion": "Cocaína",
+        "proyectoHombre": true,
+        "dineroInvertido": 3150.2
+      },
+      {
+        "detenciones": 2,
+        "nombre": "Alba",
+        "edad": 24,
+        "ciudadDeProcedencia": "Gijón",
+        "adiccion": "Cocaína",
+        "proyectoHombre": true,
+        "dineroInvertido": 300.0
+      },
+      {
+        "detenciones": 4,
+        "nombre": "Germán",
+        "edad": 39,
+        "ciudadDeProcedencia": "Pontevedra",
+        "adiccion": "Cocaína",
+        "proyectoHombre": true,
+        "dineroInvertido": 1450.75
+      },
+      {
+        "detenciones": 2,
+        "nombre": "Patricia",
+        "edad": 22,
+        "ciudadDeProcedencia": "Alicante",
+        "adiccion": "Cocaína",
+        "proyectoHombre": true,
+        "dineroInvertido": 120.0
+      }
+    ]
+  },
+  {
+    "nombre": "Heroína",
+    "dosis": 0.5,
+    "paisDeProcedencia": "Afganistán",
+    "mortal": true,
+    "enganchaos": [
+      {
+        "detenciones": 3,
+        "nombre": "Pedro Navajas",
+        "edad": 40,
+        "ciudadDeProcedencia": "Sevilla",
+        "adiccion": "Heroína",
+        "proyectoHombre": false,
+        "dineroInvertido": 5700.6
+      },
+      {
+        "detenciones": 4,
+        "nombre": "David",
+        "edad": 38,
+        "ciudadDeProcedencia": "Córdoba",
+        "adiccion": "Heroína",
+        "proyectoHombre": false,
+        "dineroInvertido": 2700.0
+      },
+      {
+        "detenciones": 1,
+        "nombre": "Miranda",
+        "edad": 27,
+        "ciudadDeProcedencia": "Las Palmas",
+        "adiccion": "Heroína",
+        "proyectoHombre": true,
+        "dineroInvertido": 210.0
+      },
+      {
+        "detenciones": 3,
+        "nombre": "Alicia",
+        "edad": 28,
+        "ciudadDeProcedencia": "Santander",
+        "adiccion": "Heroína",
+        "proyectoHombre": false,
+        "dineroInvertido": 1900.0
+      }
+    ]
+  },
+  {
+    "nombre": "Éxtasis",
+    "dosis": 1.0,
+    "paisDeProcedencia": "Países Bajos",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 8,
+        "nombre": "Roberto Velazquez",
+        "edad": 31,
+        "ciudadDeProcedencia": "Bilbao",
+        "adiccion": "Éxtasis",
+        "proyectoHombre": true,
+        "dineroInvertido": 920.45
+      },
+      {
+        "detenciones": 4,
+        "nombre": "Raquel",
+        "edad": 36,
+        "ciudadDeProcedencia": "Vitoria",
+        "adiccion": "Éxtasis",
+        "proyectoHombre": false,
+        "dineroInvertido": 925.7
+      },
+      {
+        "detenciones": 8,
+        "nombre": "Fernando",
+        "edad": 53,
+        "ciudadDeProcedencia": "Murcia",
+        "adiccion": "Éxtasis",
+        "proyectoHombre": false,
+        "dineroInvertido": 6200.0
+      }
+    ]
+  },
+  {
+    "nombre": "Crack",
+    "dosis": 0.2,
+    "paisDeProcedencia": "Estados Unidos",
+    "mortal": true,
+    "enganchaos": [
+      {
+        "detenciones": 6,
+        "nombre": "Sergio Turrillo",
+        "edad": 29,
+        "ciudadDeProcedencia": "Alicante",
+        "adiccion": "Crack",
+        "proyectoHombre": false,
+        "dineroInvertido": 4500.2
+      },
+      {
+        "detenciones": 7,
+        "nombre": "Lucas",
+        "edad": 31,
+        "ciudadDeProcedencia": "Logroño",
+        "adiccion": "Crack",
+        "proyectoHombre": false,
+        "dineroInvertido": 4500.8
+      },
+      {
+        "detenciones": 6,
+        "nombre": "Simón",
+        "edad": 35,
+        "ciudadDeProcedencia": "Toledo",
+        "adiccion": "Crack",
+        "proyectoHombre": true,
+        "dineroInvertido": 6400.0
+      }
+    ]
+  },
+  {
+    "nombre": "Ketamina",
+    "dosis": 0.5,
+    "paisDeProcedencia": "Reino Unido",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 7,
+        "nombre": "Pepe",
+        "edad": 45,
+        "ciudadDeProcedencia": "Murcia",
+        "adiccion": "Ketamina",
+        "proyectoHombre": true,
+        "dineroInvertido": 1100.55
+      },
+      {
+        "detenciones": 2,
+        "nombre": "Paula",
+        "edad": 35,
+        "ciudadDeProcedencia": "Albacete",
+        "adiccion": "Ketamina",
+        "proyectoHombre": false,
+        "dineroInvertido": 2900.25
+      }
+    ]
+  },
+  {
+    "nombre": "LSD",
+    "dosis": 0.05,
+    "paisDeProcedencia": "Suiza",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 1,
+        "nombre": "El Emérito",
+        "edad": 78,
+        "ciudadDeProcedencia": "Madrid",
+        "adiccion": "LSD",
+        "proyectoHombre": false,
+        "dineroInvertido": 600.0
+      },
+      {
+        "detenciones": 1,
+        "nombre": "María",
+        "edad": 25,
+        "ciudadDeProcedencia": "Almería",
+        "adiccion": "LSD",
+        "proyectoHombre": true,
+        "dineroInvertido": 700.25
+      },
+      {
+        "detenciones": 5,
+        "nombre": "José Luis",
+        "edad": 40,
+        "ciudadDeProcedencia": "Salamanca",
+        "adiccion": "LSD",
+        "proyectoHombre": false,
+        "dineroInvertido": 2000.9
+      }
+    ]
+  },
+  {
+    "nombre": "Metanfetamina",
+    "dosis": 1.0,
+    "paisDeProcedencia": "México",
+    "mortal": true,
+    "enganchaos": [
+      {
+        "detenciones": 3,
+        "nombre": "Antonio",
+        "edad": 37,
+        "ciudadDeProcedencia": "Granada",
+        "adiccion": "Metanfetamina",
+        "proyectoHombre": true,
+        "dineroInvertido": 3000.25
+      },
+      {
+        "detenciones": 4,
+        "nombre": "Esteban",
+        "edad": 41,
+        "ciudadDeProcedencia": "Madrid",
+        "adiccion": "Metanfetamina",
+        "proyectoHombre": false,
+        "dineroInvertido": 7100.0
+      }
+    ]
+  },
+  {
+    "nombre": "Hachís",
+    "dosis": 5.0,
+    "paisDeProcedencia": "Marruecos",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 4,
+        "nombre": "Raúl",
+        "edad": 33,
+        "ciudadDeProcedencia": "Valladolid",
+        "adiccion": "Hachís",
+        "proyectoHombre": false,
+        "dineroInvertido": 2100.8
+      },
+      {
+        "detenciones": 9,
+        "nombre": "Luis",
+        "edad": 52,
+        "ciudadDeProcedencia": "Murcia",
+        "adiccion": "Hachís",
+        "proyectoHombre": true,
+        "dineroInvertido": 5600.1
+      },
+      {
+        "detenciones": 6,
+        "nombre": "Raúl",
+        "edad": 28,
+        "ciudadDeProcedencia": "Gijón",
+        "adiccion": "Hachís",
+        "proyectoHombre": false,
+        "dineroInvertido": 1500.3
+      },
+      {
+        "detenciones": 4,
+        "nombre": "Esteban",
+        "edad": 56,
+        "ciudadDeProcedencia": "Córdoba",
+        "adiccion": "Hachís",
+        "proyectoHombre": false,
+        "dineroInvertido": 5200.0
+      }
+    ]
+  },
+  {
+    "nombre": "Ayahuasca",
+    "dosis": 15.0,
+    "paisDeProcedencia": "Perú",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 2,
+        "nombre": "Asun nuestra amada líder",
+        "edad": 55,
+        "ciudadDeProcedencia": "Zaragoza",
+        "adiccion": "Ayahuasca",
+        "proyectoHombre": true,
+        "dineroInvertido": 500.0
+      }
+    ]
+  },
+  {
+    "nombre": "Anfetamina",
+    "dosis": 5.0,
+    "paisDeProcedencia": "Alemania",
+    "mortal": false,
+    "enganchaos": [
+      {
+        "detenciones": 5,
+        "nombre": "Óscar",
+        "edad": 28,
+        "ciudadDeProcedencia": "Santander",
+        "adiccion": "Anfetamina",
+        "proyectoHombre": false,
+        "dineroInvertido": 1400.95
+      },
+      {
+        "detenciones": 5,
+        "nombre": "Luisa",
+        "edad": 42,
+        "ciudadDeProcedencia": "Granada",
+        "adiccion": "Anfetamina",
+        "proyectoHombre": true,
+        "dineroInvertido": 2050.0
+      },
+      {
+        "detenciones": 9,
+        "nombre": "Tomás",
+        "edad": 60,
+        "ciudadDeProcedencia": "Ponferrada",
+        "adiccion": "Anfetamina",
+        "proyectoHombre": true,
+        "dineroInvertido": 7400.0
+      }
+    ]
+  }
+]

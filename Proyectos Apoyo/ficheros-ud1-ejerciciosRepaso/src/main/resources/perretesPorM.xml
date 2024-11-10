@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListaPerros>
+    <perro id="perro03">
+        <Nombre>Max</Nombre>
+        <Sexo>macho</Sexo>
+        <Raza>Labrador</Raza>
+        <Color>negro</Color>
+        <Edad>7</Edad>
+        <Peso>30</Peso>
+    </perro>
+    <perro id="perro08">
+        <Nombre>Molly</Nombre>
+        <Sexo>hembra</Sexo>
+        <Raza>Cocker Spaniel</Raza>
+        <Color>dorado</Color>
+        <Edad>6</Edad>
+        <Peso>12</Peso>
+    </perro>
+</ListaPerros>

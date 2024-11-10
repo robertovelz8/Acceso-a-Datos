@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<equipos>
+    <equipo identificadorEquipo="11000159">
+        <nombreEquipo>RED BULL</nombreEquipo>
+        <puntos>362</puntos>
+        <pilotos>
+            <piloto identificadorPiloto="11000949">
+                <nombrePiloto>Max Verstappen</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000159</identificadorEquipo>
+                <pais>NL</pais>
+            </piloto>
+            <piloto identificadorPiloto="11000852">
+                <nombrePiloto>Sergio Pérez</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000159</identificadorEquipo>
+                <pais>MEX</pais>
+            </piloto>
+        </pilotos>
+    </equipo>
+    <equipo identificadorEquipo="11000105">
+        <nombreEquipo>MCLAREN</nombreEquipo>
+        <puntos>319</puntos>
+        <pilotos>
+            <piloto identificadorPiloto="11000999">
+                <nombrePiloto>Lando Norris</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000105</identificadorEquipo>
+                <pais>GBR</pais>
+            </piloto>
+            <piloto identificadorPiloto="11001429">
+                <nombrePiloto>Oscar Piastri</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000105</identificadorEquipo>
+                <pais>AUT</pais>
+            </piloto>
+        </pilotos>
+    </equipo>
+    <equipo identificadorEquipo="11000045">
+        <nombreEquipo>FERRARI</nombreEquipo>
+        <puntos>315</puntos>
+        <pilotos>
+            <piloto identificadorPiloto="11000995">
+                <nombrePiloto>Charles Leclerc</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000045</identificadorEquipo>
+                <pais>M.</pais>
+            </piloto>
+            <piloto identificadorPiloto="11000962">
+                <nombrePiloto>Carlos Sainz</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000045</identificadorEquipo>
+                <pais>ESP</pais>
+            </piloto>
+        </pilotos>
+    </equipo>
+</equipos>

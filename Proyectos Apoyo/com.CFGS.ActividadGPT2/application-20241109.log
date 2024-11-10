@@ -1,0 +1,55 @@
+2024-11-09 12:22:08.107 [main] DEBUG controlador.GestorLibros - [Libro [titulo=Harry Potter, autor=David Bisbal, ISBN=21312, generoLibro=Drama]]
+2024-11-09 12:41:19.550 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:41:19.553 [main] DEBUG utiles.UtilesLibros - Archivo XML no encontrado.
+2024-11-09 12:41:19.553 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:41:19.584 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:46:05.045 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:46:05.051 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 12:46:05.052 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:46:05.087 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:46:42.276 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:46:42.280 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 12:46:42.280 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:46:42.309 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:48:01.581 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:48:01.587 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 12:48:01.587 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:48:01.618 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:49:07.164 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:49:07.166 [main] DEBUG utiles.UtilesLibros - Archivo XML no encontrado.
+2024-11-09 12:49:07.166 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:49:07.198 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:49:35.884 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:49:35.889 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 12:49:35.889 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21312, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K. Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:49:35.922 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:49:57.055 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:49:57.087 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:56:15.990 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21332, generoLibro=FICCION]]
+2024-11-09 12:56:15.995 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 12:56:15.995 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21332, generoLibro=FICCION], Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:56:16.028 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:57:52.491 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]]
+2024-11-09 12:57:52.495 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 12:57:52.496 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA], Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21332, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 12:57:52.525 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 12:57:52.525 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-09 13:17:58.577 [main] DEBUG controlador.GestorLibros - Libro agregado: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]]
+2024-11-09 13:17:58.581 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 13:17:58.582 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA], Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA], Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21332, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 13:17:58.614 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 13:17:58.615 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-09 13:17:58.615 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-09 13:17:58.615 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]
+2024-11-09 13:19:13.107 [main] DEBUG controlador.GestorLibros - Libro agregado: []
+2024-11-09 13:19:13.113 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 13:19:13.113 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA], Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21332, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 13:19:13.142 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 13:19:13.143 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-09 13:19:13.143 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]
+2024-11-09 18:41:30.834 [main] DEBUG controlador.GestorLibros - Libro agregado: []
+2024-11-09 18:41:30.839 [main] DEBUG utiles.UtilesLibros - Libros cargados desde el XML correctamente.
+2024-11-09 18:41:30.839 [main] DEBUG controlador.GestorLibros - Libros cargados desde el archivo XML: [Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA], Libro [titulo=Dragon Ball, autor=Akira Tori Yama, ISBN=21332, generoLibro=FICCION], Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]]
+2024-11-09 18:41:30.869 [main] DEBUG utiles.UtilesLibros - Catálogo guardado en el archivo XML.
+2024-11-09 18:41:30.870 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Los Futbolisimos, autor=Juan Perez, ISBN=21332, generoLibro=COMEDIA]
+2024-11-09 18:41:30.871 [main] DEBUG repositorio.RepositorioLibro - Libro [titulo=Harry Potter, autor=J.K Rowling, ISBN=21312, generoLibro=FICCION]

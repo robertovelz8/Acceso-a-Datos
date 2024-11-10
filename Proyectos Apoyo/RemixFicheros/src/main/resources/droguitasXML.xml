@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<droguitas>
+  <droguita tipo="ingerida">
+    <nombre>Alcohol</nombre>
+    <dosis>150</dosis>
+    <paisDeProcedencia>Escocia</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+  <droguita tipo="fumada">
+    <nombre>Marihuana</nombre>
+    <dosis>5</dosis>
+    <paisDeProcedencia>Jamaica</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+  <droguita tipo="esnifada">
+    <nombre>Cocaína</nombre>
+    <dosis>1</dosis>
+    <paisDeProcedencia>Colombia</paisDeProcedencia>
+    <mortal>true</mortal>
+  </droguita>
+  <droguita tipo="inyectada">
+    <nombre>Heroína</nombre>
+    <dosis>0.5</dosis>
+    <paisDeProcedencia>Afganistán</paisDeProcedencia>
+    <mortal>true</mortal>
+  </droguita>
+  <droguita tipo="ingerida">
+    <nombre>Éxtasis</nombre>
+    <dosis>1</dosis>
+    <paisDeProcedencia>Países Bajos</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+  <droguita tipo="fumada">
+    <nombre>Crack</nombre>
+    <dosis>0.2</dosis>
+    <paisDeProcedencia>Estados Unidos</paisDeProcedencia>
+    <mortal>true</mortal>
+  </droguita>
+  <droguita tipo="esnifada">
+    <nombre>Ketamina</nombre>
+    <dosis>0.5</dosis>
+    <paisDeProcedencia>Reino Unido</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+  <droguita tipo="ingerida">
+    <nombre>LSD</nombre>
+    <dosis>0.05</dosis>
+    <paisDeProcedencia>Suiza</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+  <droguita tipo="inyectada">
+    <nombre>Metanfetamina</nombre>
+    <dosis>1</dosis>
+    <paisDeProcedencia>México</paisDeProcedencia>
+    <mortal>true</mortal>
+  </droguita>
+  <droguita tipo="fumada">
+    <nombre>Hachís</nombre>
+    <dosis>5</dosis>
+    <paisDeProcedencia>Marruecos</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+  <droguita tipo="ingerida">
+    <nombre>Ayahuasca</nombre>
+    <dosis>15</dosis>
+    <paisDeProcedencia>Perú</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+  <droguita tipo="esnifada">
+    <nombre>Anfetamina</nombre>
+    <dosis>5</dosis>
+    <paisDeProcedencia>Alemania</paisDeProcedencia>
+    <mortal>false</mortal>
+  </droguita>
+</droguitas>

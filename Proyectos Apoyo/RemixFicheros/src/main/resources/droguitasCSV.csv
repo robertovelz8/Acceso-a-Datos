@@ -1,0 +1,13 @@
+tipo,nombre,dosis,paisDeProcedencia,mortal
+ingerida,Alcohol,150,Escocia,false
+fumada,Marihuana,5,Jamaica,false
+esnifada,Cocaína,1,Colombia,true
+inyectada,Heroína,0.5,Afganistán,true
+ingerida,Éxtasis,1,Países Bajos,false
+fumada,Crack,0.2,Estados Unidos,true
+esnifada,Ketamina,0.5,Reino Unido,false
+ingerida,LSD,0.05,Suiza,false
+inyectada,Metanfetamina,1,México,true
+fumada,Hachís,5,Marruecos,false
+ingerida,Ayahuasca,15,Perú,false
+esnifada,Anfetamina,5,Alemania,false

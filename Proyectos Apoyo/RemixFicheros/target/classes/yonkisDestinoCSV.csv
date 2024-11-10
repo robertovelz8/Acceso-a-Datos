@@ -1,0 +1,38 @@
+detenciones,nombre,edad,ciudadDeProcedencia,adiccion,proyectoHombre,dineroInvertido,genero
+4,Godoy AsertivityMan,30,Madrid,Alcohol,true,1250.75,HOMBRE
+2,Hugo,27,Barcelona,Marihuana,false,750.30,HOMBRE
+5,Tito Rober,34,Valencia,Cocaína,true,3200.90,HOMBRE
+3,Pedro Navajas,40,Sevilla,Heroína,false,5700.60,HOMBRE
+8,Roberto Velazquez,31,Bilbao,Éxtasis,true,920.45,HOMBRE
+6,Sergio Turrillo,29,Alicante,Crack,false,4500.20,HOMBRE
+7,Pepe,45,Murcia,Ketamina,true,1100.55,HOMBRE
+1,El Emérito,78,Madrid,LSD,false,600.00,HOMBRE
+3,Antonio,37,Granada,Metanfetamina,true,3000.25,HOMBRE
+4,Raúl,33,Valladolid,Hachís,false,2100.80,HOMBRE
+2,Asun nuestra amada líder,55,Zaragoza,Ayahuasca,true,500.00,MUJER
+5,Óscar,28,Santander,Anfetamina,false,1400.95,HOMBRE
+2,Juan Carlos,49,Valencia,Cocaína,true,3150.20,HOMBRE
+3,José,46,Cádiz,Alcohol,false,1150.75,HOMBRE
+1,María,25,Almería,LSD,true,700.25,MUJER
+7,Lucas,31,Logroño,Crack,false,4500.80,HOMBRE
+3,Iván,29,Toledo,Marihuana,true,300.45,HOMBRE
+4,Raquel,36,Vitoria,Éxtasis,false,925.70,MUJER
+9,Luis,52,Murcia,Hachís,true,5600.10,HOMBRE
+6,Adrián,47,León,Alcohol,false,1350.85,HOMBRE
+2,Alba,24,Gijón,Cocaína,true,300.00,MUJER
+4,David,38,Córdoba,Héroína,false,2700.00,HOMBRE
+5,Luisa,42,Granada,Anfetamina,true,2050.00,MUJER
+8,Fernando,53,Murcia,Éxtasis,false,6200.00,HOMBRE
+3,Gonzalo,60,Santiago,Alcohol,true,800.50,HOMBRE
+2,Paula,35,Albacete,Ketamina,false,2900.25,MUJER
+6,Raúl,28,Gijón,Hachís,false,1500.30,HOMBRE
+4,Germán,39,Pontevedra,Cocaína,true,1450.75,HOMBRE
+1,Miranda,27,Las Palmas,Héroína,true,210.00,MUJER
+5,José Luis,40,Salamanca,LSD,false,2000.90,HOMBRE
+4,Esteban,41,Madrid,Metanfetamina,false,7100.00,HOMBRE
+2,Patricia,22,Alicante,Cocaína,true,120.00,MUJER
+6,Simón,35,Toledo,Crack,true,6400.00,HOMBRE
+3,Alicia,28,Santander,Héroína,false,1900.00,MUJER
+9,Tomás,60,Ponferrada,Anfetamina,true,7400.00,HOMBRE
+2,Emilia,34,Valencia,Alcohol,false,900.00,MUJER
+4,Esteban,56,Córdoba,Hachís,false,5200.00,HOMBRE

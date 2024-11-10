@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<equipos>
+    <equipo identificadorEquipo="11000384">
+        <nombreEquipo>KICK SAUBER</nombreEquipo>
+        <puntos>0</puntos>
+        <pilotos>
+            <piloto identificadorPiloto="11001371">
+                <nombrePiloto>Guanyu Zhou</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000384</identificadorEquipo>
+                <pais>CHN</pais>
+            </piloto>
+            <piloto identificadorPiloto="11000857">
+                <nombrePiloto>Valtteri Bottas</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000384</identificadorEquipo>
+                <pais>FIN</pais>
+            </piloto>
+        </pilotos>
+    </equipo>
+    <equipo identificadorEquipo="11000123">
+        <nombreEquipo>ALPINE F1 TEAM</nombreEquipo>
+        <puntos>9</puntos>
+        <pilotos>
+            <piloto identificadorPiloto="11000957">
+                <nombrePiloto>Esteban Ocon</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000123</identificadorEquipo>
+                <pais>FRA</pais>
+            </piloto>
+            <piloto identificadorPiloto="11000955">
+                <nombrePiloto>Pierre Gasly</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000123</identificadorEquipo>
+                <pais>FRA</pais>
+            </piloto>
+        </pilotos>
+    </equipo>
+    <equipo identificadorEquipo="11000150">
+        <nombreEquipo>WILLIAMS</nombreEquipo>
+        <puntos>12</puntos>
+        <pilotos>
+            <piloto identificadorPiloto="11001284">
+                <nombrePiloto>Alexander Albon</nombrePiloto>
+                <puntos>5</puntos>
+                <identificadorEquipo>11000150</identificadorEquipo>
+                <pais>TH</pais>
+            </piloto>
+            <piloto identificadorPiloto="11001436">
+                <nombrePiloto>Franco Colapinto</nombrePiloto>
+                <puntos>1</puntos>
+                <identificadorEquipo>11000150</identificadorEquipo>
+                <pais>ARG</pais>
+            </piloto>
+        </pilotos>
+    </equipo>
+</equipos>

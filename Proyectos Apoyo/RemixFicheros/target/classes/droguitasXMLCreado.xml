@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<droguitas>
+    <droguita tipo="ingerida">
+        <nombre>Alcohol</nombre>
+        <dosis>150.0</dosis>
+        <paisDeProcedencia>Escocia</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="4">
+                <nombre>Godoy AsertivityMan</nombre>
+                <edad>30</edad>
+                <ciudadDeProcedencia>Madrid</ciudadDeProcedencia>
+                <adiccion>Alcohol</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>1250.75</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="3">
+                <nombre>José</nombre>
+                <edad>46</edad>
+                <ciudadDeProcedencia>Cádiz</ciudadDeProcedencia>
+                <adiccion>Alcohol</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>1150.75</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="6">
+                <nombre>Adrián</nombre>
+                <edad>47</edad>
+                <ciudadDeProcedencia>León</ciudadDeProcedencia>
+                <adiccion>Alcohol</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>1350.85</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="3">
+                <nombre>Gonzalo</nombre>
+                <edad>60</edad>
+                <ciudadDeProcedencia>Santiago</ciudadDeProcedencia>
+                <adiccion>Alcohol</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>800.5</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="2">
+                <nombre>Emilia</nombre>
+                <edad>34</edad>
+                <ciudadDeProcedencia>Valencia</ciudadDeProcedencia>
+                <adiccion>Alcohol</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>900.0</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="fumada">
+        <nombre>Marihuana</nombre>
+        <dosis>5.0</dosis>
+        <paisDeProcedencia>Jamaica</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="2">
+                <nombre>Hugo</nombre>
+                <edad>27</edad>
+                <ciudadDeProcedencia>Barcelona</ciudadDeProcedencia>
+                <adiccion>Marihuana</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>750.3</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="3">
+                <nombre>Iván</nombre>
+                <edad>29</edad>
+                <ciudadDeProcedencia>Toledo</ciudadDeProcedencia>
+                <adiccion>Marihuana</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>300.45</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="esnifada">
+        <nombre>Cocaína</nombre>
+        <dosis>1.0</dosis>
+        <paisDeProcedencia>Colombia</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="5">
+                <nombre>Tito Rober</nombre>
+                <edad>34</edad>
+                <ciudadDeProcedencia>Valencia</ciudadDeProcedencia>
+                <adiccion>Cocaína</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>3200.9</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="2">
+                <nombre>Juan Carlos</nombre>
+                <edad>49</edad>
+                <ciudadDeProcedencia>Valencia</ciudadDeProcedencia>
+                <adiccion>Cocaína</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>3150.2</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="2">
+                <nombre>Alba</nombre>
+                <edad>24</edad>
+                <ciudadDeProcedencia>Gijón</ciudadDeProcedencia>
+                <adiccion>Cocaína</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>300.0</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+            <yonki detenciones="4">
+                <nombre>Germán</nombre>
+                <edad>39</edad>
+                <ciudadDeProcedencia>Pontevedra</ciudadDeProcedencia>
+                <adiccion>Cocaína</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>1450.75</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="2">
+                <nombre>Patricia</nombre>
+                <edad>22</edad>
+                <ciudadDeProcedencia>Alicante</ciudadDeProcedencia>
+                <adiccion>Cocaína</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>120.0</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="inyectada">
+        <nombre>Heroína</nombre>
+        <dosis>0.5</dosis>
+        <paisDeProcedencia>Afganistán</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="3">
+                <nombre>Pedro Navajas</nombre>
+                <edad>40</edad>
+                <ciudadDeProcedencia>Sevilla</ciudadDeProcedencia>
+                <adiccion>Heroína</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>5700.6</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="4">
+                <nombre>David</nombre>
+                <edad>38</edad>
+                <ciudadDeProcedencia>Córdoba</ciudadDeProcedencia>
+                <adiccion>Heroína</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>2700.0</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="1">
+                <nombre>Miranda</nombre>
+                <edad>27</edad>
+                <ciudadDeProcedencia>Las Palmas</ciudadDeProcedencia>
+                <adiccion>Heroína</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>210.0</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+            <yonki detenciones="3">
+                <nombre>Alicia</nombre>
+                <edad>28</edad>
+                <ciudadDeProcedencia>Santander</ciudadDeProcedencia>
+                <adiccion>Heroína</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>1900.0</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="ingerida">
+        <nombre>Éxtasis</nombre>
+        <dosis>1.0</dosis>
+        <paisDeProcedencia>Países Bajos</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="8">
+                <nombre>Roberto Velazquez</nombre>
+                <edad>31</edad>
+                <ciudadDeProcedencia>Bilbao</ciudadDeProcedencia>
+                <adiccion>Éxtasis</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>920.45</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="4">
+                <nombre>Raquel</nombre>
+                <edad>36</edad>
+                <ciudadDeProcedencia>Vitoria</ciudadDeProcedencia>
+                <adiccion>Éxtasis</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>925.7</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+            <yonki detenciones="8">
+                <nombre>Fernando</nombre>
+                <edad>53</edad>
+                <ciudadDeProcedencia>Murcia</ciudadDeProcedencia>
+                <adiccion>Éxtasis</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>6200.0</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="fumada">
+        <nombre>Crack</nombre>
+        <dosis>0.2</dosis>
+        <paisDeProcedencia>Estados Unidos</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="6">
+                <nombre>Sergio Turrillo</nombre>
+                <edad>29</edad>
+                <ciudadDeProcedencia>Alicante</ciudadDeProcedencia>
+                <adiccion>Crack</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>4500.2</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="7">
+                <nombre>Lucas</nombre>
+                <edad>31</edad>
+                <ciudadDeProcedencia>Logroño</ciudadDeProcedencia>
+                <adiccion>Crack</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>4500.8</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="6">
+                <nombre>Simón</nombre>
+                <edad>35</edad>
+                <ciudadDeProcedencia>Toledo</ciudadDeProcedencia>
+                <adiccion>Crack</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>6400.0</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="esnifada">
+        <nombre>Ketamina</nombre>
+        <dosis>0.5</dosis>
+        <paisDeProcedencia>Reino Unido</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="7">
+                <nombre>Pepe</nombre>
+                <edad>45</edad>
+                <ciudadDeProcedencia>Murcia</ciudadDeProcedencia>
+                <adiccion>Ketamina</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>1100.55</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="2">
+                <nombre>Paula</nombre>
+                <edad>35</edad>
+                <ciudadDeProcedencia>Albacete</ciudadDeProcedencia>
+                <adiccion>Ketamina</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>2900.25</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="ingerida">
+        <nombre>LSD</nombre>
+        <dosis>0.05</dosis>
+        <paisDeProcedencia>Suiza</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="1">
+                <nombre>El Emérito</nombre>
+                <edad>78</edad>
+                <ciudadDeProcedencia>Madrid</ciudadDeProcedencia>
+                <adiccion>LSD</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>600.0</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="1">
+                <nombre>María</nombre>
+                <edad>25</edad>
+                <ciudadDeProcedencia>Almería</ciudadDeProcedencia>
+                <adiccion>LSD</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>700.25</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+            <yonki detenciones="5">
+                <nombre>José Luis</nombre>
+                <edad>40</edad>
+                <ciudadDeProcedencia>Salamanca</ciudadDeProcedencia>
+                <adiccion>LSD</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>2000.9</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="inyectada">
+        <nombre>Metanfetamina</nombre>
+        <dosis>1.0</dosis>
+        <paisDeProcedencia>México</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="3">
+                <nombre>Antonio</nombre>
+                <edad>37</edad>
+                <ciudadDeProcedencia>Granada</ciudadDeProcedencia>
+                <adiccion>Metanfetamina</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>3000.25</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="4">
+                <nombre>Esteban</nombre>
+                <edad>41</edad>
+                <ciudadDeProcedencia>Madrid</ciudadDeProcedencia>
+                <adiccion>Metanfetamina</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>7100.0</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="fumada">
+        <nombre>Hachís</nombre>
+        <dosis>5.0</dosis>
+        <paisDeProcedencia>Marruecos</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="4">
+                <nombre>Raúl</nombre>
+                <edad>33</edad>
+                <ciudadDeProcedencia>Valladolid</ciudadDeProcedencia>
+                <adiccion>Hachís</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>2100.8</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="9">
+                <nombre>Luis</nombre>
+                <edad>52</edad>
+                <ciudadDeProcedencia>Murcia</ciudadDeProcedencia>
+                <adiccion>Hachís</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>5600.1</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="6">
+                <nombre>Raúl</nombre>
+                <edad>28</edad>
+                <ciudadDeProcedencia>Gijón</ciudadDeProcedencia>
+                <adiccion>Hachís</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>1500.3</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="4">
+                <nombre>Esteban</nombre>
+                <edad>56</edad>
+                <ciudadDeProcedencia>Córdoba</ciudadDeProcedencia>
+                <adiccion>Hachís</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>5200.0</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="ingerida">
+        <nombre>Ayahuasca</nombre>
+        <dosis>15.0</dosis>
+        <paisDeProcedencia>Perú</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="2">
+                <nombre>Asun nuestra amada líder</nombre>
+                <edad>55</edad>
+                <ciudadDeProcedencia>Zaragoza</ciudadDeProcedencia>
+                <adiccion>Ayahuasca</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>500.0</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+    <droguita tipo="esnifada">
+        <nombre>Anfetamina</nombre>
+        <dosis>5.0</dosis>
+        <paisDeProcedencia>Alemania</paisDeProcedencia>
+        <mortal>false</mortal>
+        <enganchaos>
+            <yonki detenciones="5">
+                <nombre>Óscar</nombre>
+                <edad>28</edad>
+                <ciudadDeProcedencia>Santander</ciudadDeProcedencia>
+                <adiccion>Anfetamina</adiccion>
+                <proyectoHombre>false</proyectoHombre>
+                <dineroInvertido>1400.95</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+            <yonki detenciones="5">
+                <nombre>Luisa</nombre>
+                <edad>42</edad>
+                <ciudadDeProcedencia>Granada</ciudadDeProcedencia>
+                <adiccion>Anfetamina</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>2050.0</dineroInvertido>
+                <genero>mujer</genero>
+            </yonki>
+            <yonki detenciones="9">
+                <nombre>Tomás</nombre>
+                <edad>60</edad>
+                <ciudadDeProcedencia>Ponferrada</ciudadDeProcedencia>
+                <adiccion>Anfetamina</adiccion>
+                <proyectoHombre>true</proyectoHombre>
+                <dineroInvertido>7400.0</dineroInvertido>
+                <genero>hombre</genero>
+            </yonki>
+        </enganchaos>
+    </droguita>
+</droguitas>
