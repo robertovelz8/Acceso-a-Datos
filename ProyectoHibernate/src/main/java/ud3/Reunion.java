@@ -6,6 +6,8 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 
 @Entity
 public class Reunion {
@@ -16,10 +18,23 @@ public class Reunion {
 	private LocalDateTime fecha;
 	private String asunto;
 	
+	@ManyToOne
+	@JoinColumn(name = "id")
+	private Sala sala;
+	
 	
 	//Constructor
 	public Reunion() {
 	}
+
+	
+
+	public Reunion(LocalDateTime fecha, String asunto, Sala sala) {
+		this.fecha = fecha;
+		this.asunto = asunto;
+		this.sala = sala;
+	}
+
 
 
 	//Getters & Setters
@@ -54,9 +69,19 @@ public class Reunion {
 	}
 
 
+	public Sala getSala() {
+		return sala;
+	}
+
+
+	public void setSala(Sala sala) {
+		this.sala = sala;
+	}
+
+
 	@Override
 	public String toString() {
-		return "Reunion [idReunion=" + idReunion + ", fecha=" + fecha + ", asunto=" + asunto + "]";
+		return "Reunion [idReunion=" + idReunion + ", fecha=" + fecha + ", asunto=" + asunto + ", sala=" + sala + "]";
 	}
 	
 	
