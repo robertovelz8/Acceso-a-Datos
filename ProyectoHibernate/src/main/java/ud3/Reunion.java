@@ -8,6 +8,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
+import jakarta.persistence.criteria.Fetch;
 
 @Entity
 public class Reunion {
@@ -81,7 +82,7 @@ public class Reunion {
 
 	@Override
 	public String toString() {
-		return "Reunion [idReunion=" + idReunion + ", fecha=" + fecha + ", asunto=" + asunto + ", sala=" + sala + "]";
+		return "Reunion [idReunion=" + idReunion + ", fecha=" + fecha + ", asunto=" + asunto + ", sala=" + sala.getNombre() + "]";
 	}
 	
 	

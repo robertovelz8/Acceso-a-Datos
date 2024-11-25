@@ -1,6 +1,5 @@
 package controller;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 
@@ -30,6 +29,7 @@ public class GestionaReuniones {
 		r1.create(reunion4);
 		r1.create(reunion5);
 		sala4.addReunion(reunion4);
+		/*
 		List<Reunion> reuniones = r1.getAll();
 		for (Reunion reunion : reuniones) {
 			logger.debug(reunion);
@@ -38,6 +38,12 @@ public class GestionaReuniones {
 		for (Sala sala : s1.getAll()) {
 			logger.debug(sala);
 		}
+		*/
+		for (Reunion r : r1.getAllReuniones()) {
+			logger.debug(r);
+		}
+		
+		
 	}
 
 }
