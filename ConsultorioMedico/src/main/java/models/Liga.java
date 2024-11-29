@@ -1,8 +1,10 @@
 package models;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import jakarta.persistence.CascadeType;
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -15,31 +17,32 @@ public class Liga {
 	
 	//Attributes
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@JoinColumn(name = "id_liga")
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "id_liga")
 	private int idLiga;
 	private String nombre;
 	private String pais;
 	private String nivel;
 	@OneToMany (mappedBy = "liga", cascade = CascadeType.ALL)
 	private List<Equipo> equipos;
-	@OneToMany (mappedBy = "liga", cascade = CascadeType.ALL)
-	private List<Partido> partidos;
+	
+	@OneToMany (cascade = CascadeType.ALL)
+	@JoinColumn(name = "liga_id", referencedColumnName = "id_liga")
+	private List<Arbitro> arbitros;
 	
 	//Constructors
-	public Liga(int idLiga, String nombre, String pais, String nivel, List<Equipo> equipos, List<Partido> partidos) {
+	public Liga(String nombre, String pais, String nivel, List<Equipo> equipos, List<Arbitro> arbitros) {
 		super();
-		this.idLiga = idLiga;
 		this.nombre = nombre;
 		this.pais = pais;
 		this.nivel = nivel;
-		this.equipos = equipos;
-		this.partidos = partidos;
+		this.equipos = new ArrayList<Equipo>();
+		this.arbitros = new ArrayList<Arbitro>();
 	}
 
-	public Liga(int idLiga) {
+	
+	public Liga() {
 		super();
-		this.idLiga = idLiga;
 	}
 
 	//Getters & Setters
@@ -84,26 +87,20 @@ public class Liga {
 		this.equipos = equipos;
 	}
 
-	public List<Partido> getPartidos() {
-		return partidos;
+	public List<Arbitro> getArbitros() {
+		return arbitros;
 	}
 
-	public void setPartidos(List<Partido> partidos) {
-		this.partidos = partidos;
+	public void setArbitros(List<Arbitro> arbitros) {
+		this.arbitros = arbitros;
 	}
 
 	@Override
 	public String toString() {
 		return "Liga [idLiga=" + idLiga + ", nombre=" + nombre + ", pais=" + pais + ", nivel=" + nivel + ", equipos="
-				+ equipos + ", partidos=" + partidos + "]";
+				+ equipos + ", arbitros=" + arbitros + "]";
 	}
+
 	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }

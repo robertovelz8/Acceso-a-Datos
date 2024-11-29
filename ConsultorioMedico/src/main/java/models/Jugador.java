@@ -1,44 +1,37 @@
 package models;
 
-import java.sql.Date;
-
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
 
 @Entity
 public class Jugador {
 	
 	//Attributes
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@JoinColumn(name = "id_jugador")
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "id_jugador")
 	private int idJugador;
 	private String nombre;
 	private String posicion;
-	private Date fechaNacimiento;
+	private String fechaNacimiento;
 	private int dorsal;
 	
-	@ManyToOne
-	private Equipo equipo;
+
 
 	//Constructors
-	public Jugador(int idJugador, String nombre, String posicion, Date fechaNacimiento, int dorsal, Equipo equipo) {
-		super();
-		this.idJugador = idJugador;
+	public Jugador(String nombre, String posicion, String fechaNacimiento, int dorsal) {
 		this.nombre = nombre;
 		this.posicion = posicion;
 		this.fechaNacimiento = fechaNacimiento;
 		this.dorsal = dorsal;
-		this.equipo = equipo;
+
 	}
 
-	public Jugador(int idJugador) {
-		super();
-		this.idJugador = idJugador;
+	
+	public Jugador() {
 	}
 
 	//Getters & Setters
@@ -66,11 +59,11 @@ public class Jugador {
 		this.posicion = posicion;
 	}
 
-	public Date getFechaNacimiento() {
+	public String getFechaNacimiento() {
 		return fechaNacimiento;
 	}
 
-	public void setFechaNacimiento(Date fechaNacimiento) {
+	public void setFechaNacimiento(String fechaNacimiento) {
 		this.fechaNacimiento = fechaNacimiento;
 	}
 
@@ -82,19 +75,13 @@ public class Jugador {
 		this.dorsal = dorsal;
 	}
 
-	public Equipo getEquipo() {
-		return equipo;
-	}
-
-	public void setEquipo(Equipo equipo) {
-		this.equipo = equipo;
-	}
 
 	@Override
 	public String toString() {
 		return "Jugador [idJugador=" + idJugador + ", nombre=" + nombre + ", posicion=" + posicion
-				+ ", fechaNacimiento=" + fechaNacimiento + ", dorsal=" + dorsal + ", equipo=" + equipo + "]";
+				+ ", fechaNacimiento=" + fechaNacimiento + ", dorsal=" + dorsal + "]";
 	}
+
 	
 	
 	

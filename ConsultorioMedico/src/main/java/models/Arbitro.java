@@ -1,39 +1,48 @@
 package models;
 
+import java.util.ArrayList;
 import java.util.List;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.OneToMany;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
 
+@Entity
 public class Arbitro {
 
 	//Attributes
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "id_arbitro")
 	private int idArbitro;
 	private String nombre;
 	private String nacionalidad;
 	private String experiencia;
 	
-	@OneToMany
+	@ManyToMany
+	@JoinTable(
+		    name = "equipo_partido", 
+		    joinColumns = @JoinColumn(name = "id_equipo"), 
+		    inverseJoinColumns = @JoinColumn(name = "id_partido")) 
 	private List<Partido> partidos;
+	
 
 	//Constructors
-	public Arbitro(int idArbitro, String nombre, String nacionalidad, String experiencia, List<Partido> partidos) {
-		super();
-		this.idArbitro = idArbitro;
+	public Arbitro(String nombre, String nacionalidad, String experiencia, List<Partido> partidos) {
 		this.nombre = nombre;
 		this.nacionalidad = nacionalidad;
 		this.experiencia = experiencia;
-		this.partidos = partidos;
+		this.partidos = new ArrayList<Partido>();
 	}
 
-	public Arbitro(int idArbitro) {
-		super();
-		this.idArbitro = idArbitro;
+
+	public Arbitro() {
 	}
 
 	//Getters & Setters
@@ -69,20 +78,24 @@ public class Arbitro {
 		this.experiencia = experiencia;
 	}
 
+
 	public List<Partido> getPartidos() {
 		return partidos;
 	}
+
 
 	public void setPartidos(List<Partido> partidos) {
 		this.partidos = partidos;
 	}
 
-	//toString
+
 	@Override
 	public String toString() {
 		return "Arbitro [idArbitro=" + idArbitro + ", nombre=" + nombre + ", nacionalidad=" + nacionalidad
 				+ ", experiencia=" + experiencia + ", partidos=" + partidos + "]";
 	}
 	
+	
+
 	
 }

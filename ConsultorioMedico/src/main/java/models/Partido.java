@@ -2,13 +2,12 @@ package models;
 
 import java.util.List;
 
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.OneToMany;
-import jakarta.persistence.OneToOne;
+import jakarta.persistence.ManyToMany;
 
 @Entity
 public class Partido {
@@ -16,33 +15,27 @@ public class Partido {
 	//Attributes
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@JoinColumn(name = "id_partido")
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "id_partido")
 	private int idPartido;
 	private String fecha;
 	private String resultado;
 	private int jornada;
+	@ManyToMany
+	private List<Arbitro> arbitros;
 	
-	@OneToMany (mappedBy = "partido")
-	private List<Equipo> equipos;
-	
-	@OneToOne
-	private Partido partido;
 
 	//Constructors
-	public Partido(int idPartido, String fecha, String resultado, int jornada, List<Equipo> equipos, Partido partido) {
+	public Partido(String fecha, String resultado, int jornada, List<Arbitro> arbitros) {
 		super();
-		this.idPartido = idPartido;
 		this.fecha = fecha;
 		this.resultado = resultado;
 		this.jornada = jornada;
-		this.equipos = equipos;
-		this.partido = partido;
+		this.arbitros = arbitros;
 	}
 
-	public Partido(int idPartido) {
-		super();
-		this.idPartido = idPartido;
+
+	public Partido() {
 	}
 
 	//Getters & Setters
@@ -78,27 +71,20 @@ public class Partido {
 		this.jornada = jornada;
 	}
 
-	public List<Equipo> getEquipos() {
-		return equipos;
+	public List<Arbitro> getArbitros() {
+		return arbitros;
 	}
 
-	public void setEquipos(List<Equipo> equipos) {
-		this.equipos = equipos;
+
+	public void setArbitros(List<Arbitro> arbitros) {
+		this.arbitros = arbitros;
 	}
 
-	public Partido getPartido() {
-		return partido;
-	}
-
-	public void setPartido(Partido partido) {
-		this.partido = partido;
-	}
 
 	@Override
 	public String toString() {
 		return "Partido [idPartido=" + idPartido + ", fecha=" + fecha + ", resultado=" + resultado + ", jornada="
-				+ jornada + ", equipos=" + equipos + ", partido=" + partido + "]";
+				+ jornada + ", arbitros=" + arbitros + "]";
 	}
-	
 	
 }
