@@ -11,12 +11,13 @@
 		<property name="hibernate.show_sql">true</property> <!-- Muestra la traducción sql -->
 		<property name="hibernate.format_sql">true</property> <!--  Formatea ese sql -->
 		<property name="hibernate.use_sql_comments">true</property> 
-		<property name="hibernate.hbm2ddl.auto">update</property> <!-- crea el esquema de la base de datos -->
+		<property name="hibernate.hbm2ddl.auto">create</property> <!-- crea el esquema de la base de datos -->
 		<mapping class="models.Liga" />
 		<mapping class="models.Equipo" />
 		<mapping class="models.Jugador" />
 		<mapping class="models.Estadio" />
 		<mapping class="models.Arbitro" />
 		<mapping class="models.Partido" />
+		<mapping class="models.Manager" />
 	</session-factory>
 </hibernate-configuration>

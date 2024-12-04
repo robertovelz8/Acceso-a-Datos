@@ -1,2 +1,2 @@
-CREATE USER IF NOT EXISTS 'root'@'localhost' IDENTIFIED BY 'dam1';
+CREATE USER 'root'@'localhost' IDENTIFIED BY 'dam1';
 CREATE DATABASE IF NOT EXISTS torneosfutbol;
