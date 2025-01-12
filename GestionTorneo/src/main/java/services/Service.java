@@ -401,5 +401,94 @@ public class Service {
         managerDAO.delete(manager);
     }
 
+    /**
+     * Obtiene un equipo desde la capa de datos.
+     * 
+     * @return un objeto {@link Equipo} obtenido desde el DAO.
+     */
+    public Equipo findEquipo () {
+    	return equipoDAO.findEquipo();
+    }
+    
+    /**
+     * Obtiene el nombre de un árbitro desde la capa de datos.
+     * 
+     * @return el nombre del árbitro como un {@link String}.
+     */
+    public String findNombreByArbitro () {
+    	return arbitroDAO.findNombreByArbitro();
+    }
+    
+    /**
+     * Recupera y muestra la fecha de nacimiento y la posición de todos los jugadores.
+     * 
+     * Este método delega la operación a la capa DAO.
+     */
+    public void findFechaNacimientoAndPosicionByJugador () {
+    	jugadorDAO.findFechaNacimientoAndPosicionByJugador();
+    }
+
+    /**
+     * Busca estadios cuya capacidad sea mayor que 30,000.
+     * 
+     * @return una lista de objetos {@link Estadio} que cumplen con el criterio de capacidad.
+     */
+    public List<Estadio> findEstadioByCapacidad() {
+    	return estadioDAO.findEstadioByCapacidad();
+    }
+    
+    /**
+     * Busca estadios ubicados en "Nervión".
+     * 
+     * @return una lista de objetos {@link Estadio} que cumplen con el criterio de ubicación.
+     */
+    public List<Estadio> findEstadioByUbicacion() {
+    	return estadioDAO.findEstadioByUbicacion();
+    }
+    
+    /**
+     * Calcula la cantidad total de estadios registrados en la base de datos.
+     * 
+     * @return el número total de estadios como un valor de tipo {@link Long}.
+     */
+    public Long findNumeroEstadiosByCount () {
+    	return estadioDAO.findNumeroEstadiosByCount();
+    }
+    
+    /**
+     * Calcula el promedio de capacidad de los estadios registrados en la base de datos.
+     * 
+     * @return el promedio de la capacidad de los estadios como un valor de tipo {@link Double}.
+     */
+    public Double findPromedioCapacidadByAvg () {
+    	return estadioDAO.findPromedioCapacidadByAvg();
+    }
+    
+    /**
+     * Busca jugadores que tienen un dorsal específico y los ordena por su nombre en orden descendente.
+     * 
+     * @return una lista de objetos {@link Jugador} que cumplen con el filtro de dorsal y están ordenados por nombre.
+     */
+    public List<Jugador> findJugadoresJugadoresByFilterAndOrderBy () {
+    	return jugadorDAO.findJugadoresJugadoresByFilterAndOrderBy();
+    }
+    
+    /**
+     * Actualiza la nacionalidad de un manager específico.
+     * 
+     * Este método delega la operación a la capa DAO, que utiliza Criteria API para realizar la actualización.
+     */
+    public void actualizarNacionalidadManager() {
+    	managerDAO.actualizarNacionalidad();
+    }
+    
+    /**
+     * Elimina un manager específico de la base de datos.
+     * 
+     * Este método delega la operación a la capa DAO, que utiliza Criteria API para realizar la eliminación.
+     */
+    public void eliminarManager () {
+    	managerDAO.eliminarManager();
+    }
     
 }

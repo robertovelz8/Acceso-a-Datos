@@ -81,26 +81,62 @@ public class GestionTorneosController {
         liga1.setArbitros(arbitros);
         
         Manager m1 = new Manager();
+        Manager m2 = new Manager();
+        Manager m3 = new Manager();
         m1.setNombre("Jorge");
         m1.setApellido("Mendes");
         m1.setNacionalidad("portuguesa");
+        m2.setNombre("Pere");
+        m3.setNombre("Mino");
+        m2.setApellido("Guardiola");
+        m3.setApellido("Raiola");
+        m2.setNacionalidad("española");
+        m3.setNacionalidad("italiana");
         service.createManager(m1);
+        service.createManager(m2);
+        service.createManager(m3);
 
         Jugador j1 = new Jugador("Leo Messi", "CF", "1983-07-12", 10, m1);
+        Jugador j2 = new Jugador("Cristiano Ronaldo", "DC", "1912-04-22", 7, m1);
+        Jugador j3 = new Jugador("Lamine Yamal", "ED", "2006-11-01", 32, m1);
+        Jugador j4 = new Jugador("Fede Valverde", "MC", "2001-03-17", 15, m1);
+        Jugador j5 = new Jugador("Keylor Navas", "POR", "1949-11-23", 1, m1);
+        Jugador j6 = new Jugador("Karamoko Dembélé", "MP", "2003-12-11", 7, m1);
+
         m1.setJugador(j1);
+        m1.setJugador(j2);
+        m1.setJugador(j3);
+        m1.setJugador(j4);
+        m1.setJugador(j5);
+        m1.setJugador(j6);
 
         Estadio estadio1 = new Estadio("Benito Villamarín", 47213, "Heliópolis");
-        
+        Estadio estadio2 = new Estadio("Sánchez Pizjuán", 19312, "Nervión");
         // CREATE operaciones
         service.createLiga(liga1);
         service.createPartido(p1);
         service.createEstadio(estadio1);
+        service.createEstadio(estadio2);
         service.createJugador(j1);
+        service.createJugador(j2);
+        service.createJugador(j3);
+        service.createJugador(j4);
+        service.createJugador(j5);
+        service.createJugador(j6);
 
         // Se maneja el error relacionado con las entidades de relaciones como Liga y Arbitro
         Equipo eq3 = new Equipo("Málaga CF", "1963-11-21", liga1);
+        Equipo eq4 = new Equipo("FC Barcelona", "1972-03-19", liga1);
+        Equipo eq5 = new Equipo("RCD Espanyol", "1921-05-12", liga1);
+        Equipo eq6 = new Equipo("Rayo Vallecano de Madrid", "1943-09-12", liga1);
         equipos.add(eq3);
+        equipos.add(eq4);
+        equipos.add(eq5);
+        equipos.add(eq6);
         service.createEquipo(eq3);
+        service.createEquipo(eq4);
+        service.createEquipo(eq5);
+        service.createEquipo(eq6);
         
         // UPDATE operaciones
         a1.setNacionalidad("inglesa");
@@ -132,6 +168,30 @@ public class GestionTorneosController {
         logger.debug(service.getAllEquipos());
         
         // DELETE operación
-        service.deleteEstadio(estadio1);
+        //service.deleteEstadio(estadio1);
+        
+        //1.1 Una consulta a la BBDD que restrinja el número de elementos devueltos de una lista a 1.
+        logger.debug(service.findEquipo());
+        
+        //1.2. Una consulta que devuelva un campo de una tabla
+        logger.debug(service.findNombreByArbitro());
+        
+        //1.3. Una consulta que devuelva dos campos o más de una misma tabla.
+        service.findFechaNacimientoAndPosicionByJugador();
+        
+        //1.4. Dos consultas parametrizadas.
+        logger.debug(service.findEstadioByCapacidad());
+        logger.debug(service.findEstadioByUbicacion());
+        
+        //1.5. Una consulta con avg y otra con count
+        logger.debug(service.findNumeroEstadiosByCount()); //COUNT
+        logger.debug(service.findPromedioCapacidadByAvg()); //AVG
+        
+        //1.6. Una consulta que filtre y ordene
+        logger.debug(service.findJugadoresJugadoresByFilterAndOrderBy());
+        
+        //2
+        service.actualizarNacionalidadManager(); //CRITERIA UPDATE
+        service.eliminarManager(); //CRITERIA DELETE
     }
 }
