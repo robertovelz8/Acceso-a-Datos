@@ -37,7 +37,7 @@ public class RevistaDao extends AbstractDao<Revista> {
     	Session sesion = HibernateUtil.getFactoriaSession().openSession();
     	String queryString =  "SELECT r.nombreRevista, r.fecha, r.unidadesImpresas FROM " + Revista.class.getName()+" r " + "WHERE r.fecha < :fechaParametro";
     	TypedQuery<Object[]> query = sesion.createQuery(queryString, Object[].class);
-    	query.setParameter("fechaParametro", LocalDate.of(2025, 01, 12));
+    	query.setParameter("fechaParametro", LocalDate.of(2027, 01, 12));
     	List<Object[]> revistas = query.getResultList();
     	for (Object[] revista : revistas) {
     		logger.debug("Nombre de la revista: "+revista[0]);
