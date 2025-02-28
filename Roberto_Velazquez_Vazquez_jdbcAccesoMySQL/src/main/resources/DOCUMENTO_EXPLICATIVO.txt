@@ -1,0 +1,43 @@
+1. createJugador(Jugador jugador): 
+
+	- Este método inserta un nuevo jugador en la base de datos con su nombre, email y puntos totales. 
+	- Devuelve el ID generado para el nuevo jugador si la operación es exitosa. En caso de error, lanza una excepción MiExcepcion.
+
+2. actualizarPuntuacionNarrador(int narradorId, Resultado resultado): 
+
+	- Si el resultado es ALGUNOS, incrementa en 3 puntos la puntuación total del narrador con el ID proporcionado. 
+	- Si no se encuentra el narrador, lanza una MiExcepcion.
+
+3. actualizarPuntuacionNOAcertante(int jugadorId, Resultado resultado): 
+
+	- Si el resultado es TODOS o NADIE, incrementa en 2 puntos la puntuación total del jugador con el ID dado. 
+	- Si no se encuentra el jugador, lanza una SQLException.
+	
+4. actualizarPuntuacionAcertante(int jugadorId, Resultado resultado): 
+
+	- Si el resultado es TODOS o NADIE, incrementa en 2 puntos; si es ALGUNOS, incrementa en 3 puntos. Si no se encuentra el jugador, lanza una MiExcepcion.
+
+5. obtenerJugadorConMayorPuntuacion(): 
+
+	- Obtiene y devuelve el jugador con la mayor puntuación registrado en la base de datos. 
+	- Si no hay jugadores, lanza una MiExcepcion.
+
+6. mostrarJugadoresOrdenadosPorPuntos(): 
+
+	- Recupera y muestra en consola la lista de jugadores ordenados por su puntuación en orden descendente. 
+	- En caso de error, lanza una MiExcepcion.
+
+7. crearPartida(Partida partida): 
+
+	- Inserta una nueva partida en la base de datos con su ID, narrador, fecha y resultado. 
+	- En caso de error, lanza una MiExcepcion.
+
+8. listarPartidasOrdenadasPorFecha(): 
+
+	- Recupera y muestra en consola todas las partidas ordenadas por fecha en orden descendente. 
+	- En caso de error, lanza una MiExcepcion.
+
+9. contarPartidas(): 
+	- Cuenta y devuelve la cantidad total de partidas registradas en la base de datos. 
+	- Si ocurre un error, lanza una MiExcepcion.
+

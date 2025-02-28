@@ -1,2 +1,2 @@
-CREATE USER 'root'@'localhost' IDENTIFIED BY 'dam1';
-CREATE DATABASE IF NOT EXISTS torneosfutbol;
+CREATE USER IF NOT EXISTS 'roberto'@'localhost' IDENTIFIED BY 'dam1';
+CREATE DATABASE IF NOT EXISTS clinica;

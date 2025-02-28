@@ -1,0 +1,27 @@
+2025-02-28 17:32:55.624 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:32:55.648 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:32:55.655 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:32:55.662 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:32:55.692 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-28 17:32:55.703 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-28 17:32:55.713 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-28 17:32:55.722 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-28 17:32:55.731 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-28 17:43:19.344 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:47:34.792 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:47:34.814 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:47:34.820 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:47:34.825 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:47:34.831 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:47:34.841 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 83
+2025-02-28 17:50:44.135 [main] DEBUG repositories.JugadorRepository - Jugador con mayor puntuación: Jugador(id=78, nombre=Mica Galera, email=micagalera@gmail.com, puntosTotales=0)
+2025-02-28 17:53:49.914 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:54:38.592 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-28 17:54:38.620 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 89
+2025-02-28 17:54:38.645 [main] DEBUG repositories.JugadorRepository - Jugador con mayor puntuación: Jugador(id=89, nombre=Mica Galera, email=micagalera@gmail.com, puntosTotales=3)
+2025-02-28 17:56:05.445 [main] DEBUG repositories.PartidaRepository - ID - Narrador ID - Fecha - Resultado
+2025-02-28 17:56:05.453 [main] DEBUG repositories.PartidaRepository - 71 - 78 - 2025-02-28 - ALGUNOS
+2025-02-28 17:56:05.454 [main] DEBUG repositories.PartidaRepository - 72 - 79 - 2025-02-27 - TODOS
+2025-02-28 17:56:05.454 [main] DEBUG repositories.PartidaRepository - 73 - 80 - 2025-02-26 - NADIE
+2025-02-28 17:56:05.454 [main] DEBUG repositories.PartidaRepository - 74 - 81 - 2025-02-25 - ALGUNOS
+2025-02-28 17:56:05.455 [main] DEBUG repositories.PartidaRepository - 75 - 79 - 2025-02-24 - TODOS
