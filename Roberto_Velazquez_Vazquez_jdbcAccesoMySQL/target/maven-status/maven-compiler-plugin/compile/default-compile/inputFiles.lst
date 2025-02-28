@@ -1,0 +1,10 @@
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\controller\GestionaTorneo.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\exceptions\MiExcepcion.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\models\Jugador.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\models\Partida.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\models\Resultado.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\repositories\JugadorRepository.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\repositories\PartidaRepository.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\services\Service.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\utiles\MySqlConector.java
+C:\Users\rober\Desktop\2 DAM\Acceso-a-Datos\Roberto_Velazquez_Vazquez_jdbcAccesoMySQL\src\main\java\utiles\TestConnection.java

@@ -1,0 +1,11 @@
+2025-02-25 19:20:16.913 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:20:16.945 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 1
+2025-02-25 19:24:37.587 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:24:37.610 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:24:37.617 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:24:37.622 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:24:37.660 [main] DEBUG repositories.JugadorRepository - No se realizó ninguna actualización, ya que el resultado no es ALGUNOS.
+2025-02-25 19:29:48.982 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:29:49.006 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:29:49.014 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-25 19:29:49.022 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.

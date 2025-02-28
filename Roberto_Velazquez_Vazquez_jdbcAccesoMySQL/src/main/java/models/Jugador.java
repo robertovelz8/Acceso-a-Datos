@@ -1,19 +1,18 @@
 package models;
 
-import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
-import lombok.Setter;
 
 @Data
 @NoArgsConstructor
+@AllArgsConstructor
 @RequiredArgsConstructor
 public class Jugador {
 	
 	//Attributes
-	@Setter(AccessLevel.NONE)
 	private int id;
 	
 	@NonNull

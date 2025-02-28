@@ -33,8 +33,11 @@ public class MySqlConector {
 		}
 	}
 
-	public Connection getConnect() {
-		return connect;
+	public Connection getConnect() throws SQLException {
+	    if (connect == null || connect.isClosed()) {
+	        connect = DriverManager.getConnection(this.url, this.user, this.clave);
+	    }
+	    return connect;
 	}
 
 	public void release() {

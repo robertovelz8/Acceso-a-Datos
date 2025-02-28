@@ -1,0 +1,160 @@
+2025-02-27 11:45:16.432 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 12:24:58.092 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 12:33:47.082 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 12:37:20.432 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 12:43:27.600 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 12:47:43.143 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 12:48:42.280 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 12:53:38.562 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 12:58:16.693 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 13:49:44.006 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 13:52:32.815 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 14:15:34.608 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:15:34.656 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:15:34.664 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:15:34.673 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:15:34.691 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 14:23:29.513 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:23:29.536 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:23:29.543 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:23:29.551 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:23:29.566 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 14:25:14.581 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:25:14.605 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:25:14.612 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:25:14.620 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:25:14.637 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 14:27:45.703 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:27:45.726 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:27:45.734 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:27:45.743 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:27:45.759 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 14:37:21.481 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:37:21.507 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:37:21.513 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:37:21.520 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:37:21.538 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 14:41:02.902 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:41:02.925 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:41:02.933 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:41:02.940 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:41:02.955 [main] DEBUG repositories.PartidaRepository - Partidas obtenidas correctamente.
+2025-02-27 14:46:01.735 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:46:01.756 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:46:01.762 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 14:46:01.769 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:12:06.889 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 36
+2025-02-27 16:19:22.764 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:19:22.803 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 40
+2025-02-27 16:23:04.854 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:23:04.915 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:23:04.923 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 41
+2025-02-27 16:30:52.099 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:30:52.127 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:30:52.135 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:30:52.142 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:30:52.175 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:30:52.187 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:30:52.201 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:30:52.214 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:30:52.223 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:30:52.229 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 43
+2025-02-27 16:43:33.447 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:43:33.471 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:43:33.477 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:43:33.483 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:43:33.514 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:43:33.523 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:43:33.533 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:43:33.541 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:43:33.551 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:43:33.558 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 46
+2025-02-27 16:53:41.756 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:53:41.782 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:53:41.789 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:53:41.797 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 16:53:41.832 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:53:41.842 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:53:41.852 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:53:41.863 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:53:41.872 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 16:53:41.878 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 50
+2025-02-27 17:04:24.077 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:04:24.103 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:04:24.110 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:04:24.117 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:04:24.150 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:04:24.163 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:04:24.173 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:04:24.184 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:04:24.196 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:04:24.202 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 54
+2025-02-27 17:30:47.086 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:30:47.112 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:30:47.120 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:30:47.125 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:30:47.157 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:30:47.170 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:30:47.179 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:30:47.189 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:30:47.201 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:30:47.207 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 58
+2025-02-27 17:37:16.206 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:37:16.234 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:37:16.241 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:37:16.247 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:37:16.282 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:37:16.292 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:37:16.303 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:37:16.312 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:37:16.320 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:37:16.326 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 62
+2025-02-27 17:42:15.694 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:42:15.718 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:42:15.725 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:42:15.731 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:42:15.763 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:42:15.772 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:42:15.783 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:42:15.792 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:42:15.803 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:42:15.810 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 66
+2025-02-27 17:50:42.624 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:50:42.654 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:50:42.662 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:50:42.668 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:50:42.702 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:50:42.715 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:50:42.725 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:50:42.736 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:50:42.745 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:50:42.752 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 70
+2025-02-27 17:59:18.061 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:59:18.083 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:59:18.090 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:59:18.098 [main] DEBUG repositories.JugadorRepository - Jugador creado correctamente.
+2025-02-27 17:59:18.131 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:59:18.141 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:59:18.151 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:59:18.161 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:59:18.169 [main] DEBUG repositories.PartidaRepository - Partida creada correctamente.
+2025-02-27 17:59:18.176 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el narrador con ID: 74
+2025-02-27 17:59:18.211 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el jugador no acertante con ID: 76
+2025-02-27 17:59:18.239 [main] DEBUG repositories.JugadorRepository - Puntuación actualizada correctamente para el jugador acertante con ID: 77
+2025-02-27 17:59:18.264 [main] DEBUG repositories.JugadorRepository - Mica Galera - 3
+2025-02-27 17:59:18.264 [main] DEBUG repositories.JugadorRepository - Carlos Ruiz - 3
+2025-02-27 17:59:18.264 [main] DEBUG repositories.JugadorRepository - Ana Lopez - 2
+2025-02-27 17:59:18.264 [main] DEBUG repositories.JugadorRepository - Juan Perez - 0
+2025-02-27 18:07:02.323 [main] DEBUG repositories.JugadorRepository - Jugador con mayor puntuación: Jugador(id=74, nombre=Mica Galera, email=micagalera@gmail.com, puntosTotales=3)
+2025-02-27 18:07:02.333 [main] DEBUG repositories.PartidaRepository - 66 - 74 - 2025-02-27 - ALGUNOS
+2025-02-27 18:07:02.334 [main] DEBUG repositories.PartidaRepository - 67 - 75 - 2025-02-26 - TODOS
+2025-02-27 18:07:02.334 [main] DEBUG repositories.PartidaRepository - 68 - 76 - 2025-02-25 - NADIE
+2025-02-27 18:07:02.335 [main] DEBUG repositories.PartidaRepository - 69 - 77 - 2025-02-24 - ALGUNOS
+2025-02-27 18:07:02.335 [main] DEBUG repositories.PartidaRepository - 70 - 75 - 2025-02-23 - TODOS
+2025-02-27 18:10:30.739 [main] DEBUG repositories.JugadorRepository - Jugador con mayor puntuación: Jugador(id=74, nombre=Mica Galera, email=micagalera@gmail.com, puntosTotales=3)
+2025-02-27 18:10:30.746 [main] DEBUG repositories.PartidaRepository - ID - Narrador ID - Fecha - Resultado
+2025-02-27 18:10:30.748 [main] DEBUG repositories.PartidaRepository - 66 - 74 - 2025-02-27 - ALGUNOS
+2025-02-27 18:10:30.748 [main] DEBUG repositories.PartidaRepository - 67 - 75 - 2025-02-26 - TODOS
+2025-02-27 18:10:30.748 [main] DEBUG repositories.PartidaRepository - 68 - 76 - 2025-02-25 - NADIE
+2025-02-27 18:10:30.748 [main] DEBUG repositories.PartidaRepository - 69 - 77 - 2025-02-24 - ALGUNOS
+2025-02-27 18:10:30.748 [main] DEBUG repositories.PartidaRepository - 70 - 75 - 2025-02-23 - TODOS

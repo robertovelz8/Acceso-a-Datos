@@ -1,0 +1,10 @@
+services\Service.class
+controller\GestionaTorneo.class
+repositories\JugadorRepository.class
+models\Partida.class
+models\Resultado.class
+utiles\TestConnection.class
+repositories\PartidaRepository.class
+models\Jugador.class
+utiles\MySqlConector.class
+exceptions\MiExcepcion.class
